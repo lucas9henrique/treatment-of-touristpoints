@@ -1,0 +1,5693 @@
+[{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447abb"
+  },
+  "ID": 0,
+  "Nome": "Praça Dr José Vilela",
+  "Descricao": "Praça",
+  "Bairro": "Parnamirim",
+  "Endereco": "Avenida Dezessete De Agosto/ Rua Dr Jose Vilela/ Rua Jose De Godoy Vasconcelos",
+  "latitude": -8.034090657,
+  "longitude": -34.91157119
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447abc"
+  },
+  "ID": 1,
+  "Nome": "Praça Dr Lula Cabral de Melo",
+  "Descricao": "Praça",
+  "Bairro": "Parnamirim",
+  "Endereco": "Avenida Dezessete De Agosto/ Avenida Parnamirim/ Rua Padre Roma",
+  "latitude": -8.033198405,
+  "longitude": -34.91029444
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447abd"
+  },
+  "ID": 2,
+  "Nome": "Praça Jornalista Francisco Pessoa de Queiroz",
+  "Descricao": "Praça",
+  "Bairro": "Santana",
+  "Endereco": "Rua Nestor Silva/ Rua Leonardo Bezerra Cavalcante",
+  "latitude": -8.037484858,
+  "longitude": -34.91386712
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447abe"
+  },
+  "ID": 3,
+  "Nome": "Praça Rádio Jornal do Comércio",
+  "Descricao": "Praça",
+  "Bairro": "Parnamirim",
+  "Endereco": "Avenida Dezesste De Agosto/ Rua Leonardo Bezerra Cavalcante",
+  "latitude": -8.036970992,
+  "longitude": -34.913944
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447abf"
+  },
+  "ID": 4,
+  "Nome": "Praça Rádio Jornal do Comércio",
+  "Descricao": "Praça",
+  "Bairro": "Parnamirim",
+  "Endereco": "Avenida Dezesste De Agosto/ Rua Leonardo Bezerra Cavalcante",
+  "latitude": -8.03708098,
+  "longitude": -34.91429516
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac0"
+  },
+  "ID": 5,
+  "Nome": "Praça Oswaldo Cruz",
+  "Descricao": "Praça",
+  "Bairro": "Soledade",
+  "Endereco": "Rua Joao Fernandes Vieira/ Rua Osvaldo Cruz",
+  "latitude": -8.055074228,
+  "longitude": -34.89156634
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac1"
+  },
+  "ID": 6,
+  "Nome": "Praça Flor de Santana",
+  "Descricao": "Praça",
+  "Bairro": "Poco",
+  "Endereco": "Avenida Dezessete De Agosto/Rua Dona Olegarinha Da Cunha/ Rua De Santana",
+  "latitude": -8.038112654,
+  "longitude": -34.91806848
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac2"
+  },
+  "ID": 7,
+  "Nome": "Praça da Vila Teimosinho",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Rua Das Saudades/Rua Do Girassol",
+  "latitude": -8.085811115,
+  "longitude": -34.88401847
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac3"
+  },
+  "ID": 8,
+  "Nome": "Praça da Restauração",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Rua Padre Floriano/ Rua Do Jardim",
+  "latitude": -8.069986929,
+  "longitude": -34.8802037
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac4"
+  },
+  "ID": 9,
+  "Nome": "Praca do Monteiro",
+  "Descricao": "Praça",
+  "Bairro": "Monteiro",
+  "Endereco": "Avenida Dezessete De Agosto",
+  "latitude": -8.027913492,
+  "longitude": -34.92798922
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac5"
+  },
+  "ID": 10,
+  "Nome": "Praça Sérgio Loreto",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Rua Imperial",
+  "latitude": -8.072488891,
+  "longitude": -34.8853334
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac6"
+  },
+  "ID": 11,
+  "Nome": "Praça das Cinco Pontas",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Rua Vidal De Negreiros/Rua Imperial",
+  "latitude": -8.071880743,
+  "longitude": -34.88214292
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac7"
+  },
+  "ID": 12,
+  "Nome": "Praça das Cinco Pontas",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Rua Vidal De Negreiros",
+  "latitude": -8.071573012,
+  "longitude": -34.88188765
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac8"
+  },
+  "ID": 13,
+  "Nome": "Praça Dezessete",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Imperador Pedro Ii",
+  "latitude": -8.065308057,
+  "longitude": -34.87691259
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ac9"
+  },
+  "ID": 14,
+  "Nome": "Praça das Cinco Pontas",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Rua Vidal De Negreiros",
+  "latitude": -8.071007482,
+  "longitude": -34.88144625
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aca"
+  },
+  "ID": 15,
+  "Nome": "Praça Dom Vital",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Rua Das Calcadas",
+  "latitude": -8.068186779,
+  "longitude": -34.87835072
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447acb"
+  },
+  "ID": 16,
+  "Nome": "Praça Joaquim Nabuco",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Frei Caneca/ Cais Da Detencao",
+  "latitude": -8.064545759,
+  "longitude": -34.88125311
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447acc"
+  },
+  "ID": 17,
+  "Nome": "Praça Dezessete",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Imperador Pedro Ii / Avenida Martins De Barros",
+  "latitude": -8.065251334,
+  "longitude": -34.87653876
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447acd"
+  },
+  "ID": 18,
+  "Nome": "Praça da Comunidade Luso Brasileira",
+  "Descricao": "Praça",
+  "Bairro": "Recife",
+  "Endereco": "Cais Do Apolo/Avenida Militar",
+  "latitude": -8.053736449,
+  "longitude": -34.87103187
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ace"
+  },
+  "ID": 19,
+  "Nome": "Praça da Independência",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Avenida Dantas Barreto/Rua Primeiro De Março",
+  "latitude": -8.064166299,
+  "longitude": -34.87815957
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447acf"
+  },
+  "ID": 20,
+  "Nome": "Praça Chora menino",
+  "Descricao": "Praça",
+  "Bairro": "Paissandu",
+  "Endereco": "Rua Paissandu/ Avenida Lins Petit",
+  "latitude": -8.060289347,
+  "longitude": -34.89488865
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad0"
+  },
+  "ID": 21,
+  "Nome": "Praça Rio Branco",
+  "Descricao": "Praça",
+  "Bairro": "Recife",
+  "Endereco": "Avenida Alfredo Lisboa",
+  "latitude": -8.063157342,
+  "longitude": -34.87109061
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad1"
+  },
+  "ID": 22,
+  "Nome": "Travessa Tiradentes",
+  "Descricao": "Praça",
+  "Bairro": "Recife",
+  "Endereco": "Cais Do Apolo/Rua Bione",
+  "latitude": -8.058698428,
+  "longitude": -34.87207801
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad2"
+  },
+  "ID": 23,
+  "Nome": "Praca General Carlos Pinto",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Arlindo Melo/ Avenida Cruz Cabuga/ Rua Dos Casados",
+  "latitude": -8.040097305,
+  "longitude": -34.87190978
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad3"
+  },
+  "ID": 24,
+  "Nome": "Praça do Rosário",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Francisco Lacerda",
+  "latitude": -8.050490532,
+  "longitude": -34.95836889
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad4"
+  },
+  "ID": 25,
+  "Nome": "Praça Maciel Pinheiro",
+  "Descricao": "Praça",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua Do Hospicio / Rua Do Aragao",
+  "latitude": -8.062376317,
+  "longitude": -34.88573807
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad5"
+  },
+  "ID": 26,
+  "Nome": "Praça Parque Amorim",
+  "Descricao": "Praça",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua Joao Fernandes Vieira/Avenida Agamenon Magalhaes",
+  "latitude": -8.052047649,
+  "longitude": -34.89498176
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad6"
+  },
+  "ID": 27,
+  "Nome": "Praça da Avenida General San Martin",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Avenida General San Martin",
+  "latitude": -8.071011847,
+  "longitude": -34.92879124
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad7"
+  },
+  "ID": 28,
+  "Nome": "Praça Profeta Joseph Smith",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Avenida Engenheiro Domingos Ferreira",
+  "latitude": -8.096888965,
+  "longitude": -34.88604569
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad8"
+  },
+  "ID": 29,
+  "Nome": "Praça Miguel de Cervantes",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Leite",
+  "Endereco": "Rua Francisco Alves",
+  "latitude": -8.067558726,
+  "longitude": -34.89395077
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ad9"
+  },
+  "ID": 30,
+  "Nome": "Praça Miguel de Cervantes",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Leite",
+  "Endereco": "Rua Estado De Israel/Rua Capitao Jose  Da Luz",
+  "latitude": -8.066101465,
+  "longitude": -34.89327839
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ada"
+  },
+  "ID": 31,
+  "Nome": "Praça Miguel de Cervantes",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Leite",
+  "Endereco": "Rua Francisco Alves/Rua Jose De Alencar /Ruaantonio Gomes De Freitas",
+  "latitude": -8.066768098,
+  "longitude": -34.89357782
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447adb"
+  },
+  "ID": 32,
+  "Nome": "Praça Dom José Pereira Alves",
+  "Descricao": "Praça",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Manoel Elias/Rua Des Manoel De Sa Pereira/Rua Dom Jose Pereira Alves",
+  "latitude": -8.049211071,
+  "longitude": -34.92536237
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447adc"
+  },
+  "ID": 33,
+  "Nome": "Praça Dom Diogo Camarao",
+  "Descricao": "Praça",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Capitao Francisco Barreiras/Rua Capitao Manuel De Araujo Miranda",
+  "latitude": -8.060342319,
+  "longitude": -34.92881848
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447add"
+  },
+  "ID": 34,
+  "Nome": "Praça Pantanal",
+  "Descricao": "Praca",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Gregorio De Albuquerque/Praca Pantanal/Rua Capitao Domingos Da Costa",
+  "latitude": -8.094827242,
+  "longitude": -34.93383621
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ade"
+  },
+  "ID": 35,
+  "Nome": "Praça da Bandeira",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Avenida Sport Clube Do Recife/ Rua Benfica/ Rua Chico Science",
+  "latitude": -8.061391901,
+  "longitude": -34.90159021
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447adf"
+  },
+  "ID": 36,
+  "Nome": "Praça Salgueiro",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua Comendador Alvares De Carvalho/Rua Ribeirao/ Prc Salgueiro",
+  "latitude": -8.042580862,
+  "longitude": -34.93823736
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae0"
+  },
+  "ID": 37,
+  "Nome": "Praça da Esperança",
+  "Descricao": "Praça",
+  "Bairro": "Zumbi",
+  "Endereco": "Rua Joao Da Mata/Caratinga/Rosa Candida",
+  "latitude": -8.054287351,
+  "longitude": -34.91619183
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae1"
+  },
+  "ID": 38,
+  "Nome": "Praça do Internacional",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Benfica /  Severino Pinheiro / Heitor Maia Filho",
+  "latitude": -8.058381,
+  "longitude": -34.9035688
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae2"
+  },
+  "ID": 39,
+  "Nome": "Praça Camilo Pereira Carneiro",
+  "Descricao": "Praça",
+  "Bairro": "Curado",
+  "Endereco": "Avenida Getulio Vargas",
+  "latitude": -8.068604891,
+  "longitude": -34.94432198
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae3"
+  },
+  "ID": 40,
+  "Nome": "Praça da Conceição",
+  "Descricao": "Praça",
+  "Bairro": "Morro Da Conceicao",
+  "Endereco": "Rua Morro Da Conceição",
+  "latitude": -8.019349645,
+  "longitude": -34.91530281
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae4"
+  },
+  "ID": 41,
+  "Nome": "Praça da  Boa Viagem",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Rua Setubal / Rua Dr Nylo Dornellas Camara / Avenida Boa Viagem / Rua Barao De Souza Leao",
+  "latitude": -8.132007092,
+  "longitude": -34.90073518
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae5"
+  },
+  "ID": 42,
+  "Nome": "Praça Fernando Galvão",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Dr Vilas Boas/Rua Olimpio Costa/Praca Fernando Galvao",
+  "latitude": -8.095441959,
+  "longitude": -34.93894494
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae6"
+  },
+  "ID": 43,
+  "Nome": "Praça do Jardim São Paulo",
+  "Descricao": "Praça",
+  "Bairro": "Jardim Sao Paulo",
+  "Endereco": "Rua Senador Alberto Pasqualini/Rua N S  De Fatima/Rua Damasco",
+  "latitude": -8.081623961,
+  "longitude": -34.93836152
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae7"
+  },
+  "ID": 44,
+  "Nome": "Praça Beira Rio",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Avenida Beira Rio",
+  "latitude": -8.046253452,
+  "longitude": -34.90402245
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae8"
+  },
+  "ID": 45,
+  "Nome": "Praça Beira Rio",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Avenida Beira Rio",
+  "latitude": -8.049835422,
+  "longitude": -34.90450432
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ae9"
+  },
+  "ID": 46,
+  "Nome": "Praca do Monteiro",
+  "Descricao": "Praça",
+  "Bairro": "Monteiro",
+  "Endereco": "Avenida Dezessete De Agosto",
+  "latitude": -8.02785261,
+  "longitude": -34.92845605
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aea"
+  },
+  "ID": 47,
+  "Nome": "Praça Professor Barreto Campello",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Rua Conselheiro Theodoro/ Rua Marques De Marica",
+  "latitude": -8.047997177,
+  "longitude": -34.91484274
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aeb"
+  },
+  "ID": 48,
+  "Nome": "Praça deputado Fabio Correa",
+  "Descricao": "Praça",
+  "Bairro": "Alto Jose Do Pinho",
+  "Endereco": "Rua Severino Bernadino Pessoa/ Rua Irapiranga",
+  "latitude": -8.022359393,
+  "longitude": -34.90632204
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aec"
+  },
+  "ID": 49,
+  "Nome": "Praça Professor Barreto Campello",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Rua Jose De Holanda/ Rua Barreto Campelo/Rua Zilda S De Santana",
+  "latitude": -8.04702363,
+  "longitude": -34.91399529
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aed"
+  },
+  "ID": 50,
+  "Nome": "Praça João Pessoa de Queiroz",
+  "Descricao": "Praça",
+  "Bairro": "Torroes",
+  "Endereco": "Rua Domingos De Abreu Vasconcelos/Aniceto Ribeiro Varejao/Des Capristano De Moraes E Silva",
+  "latitude": -8.067352423,
+  "longitude": -34.9329581
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aee"
+  },
+  "ID": 51,
+  "Nome": "Praça do Paraíso",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Cinco De Novembro",
+  "latitude": -8.08105852,
+  "longitude": -34.90718956
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aef"
+  },
+  "ID": 52,
+  "Nome": "Praça Vila do Moinho Recife",
+  "Descricao": "Praça",
+  "Bairro": "Encruzilhada",
+  "Endereco": "Rua Domingos Bastos",
+  "latitude": -8.03731776,
+  "longitude": -34.88891284
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af0"
+  },
+  "ID": 53,
+  "Nome": "Praça São Braz",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Manuel De Aguiar/R Capitao Braz De Barros/R Capitao Francisco Coutinho/Praça Sao Braz",
+  "latitude": -8.094377412,
+  "longitude": -34.93161111
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af1"
+  },
+  "ID": 54,
+  "Nome": "Praça Alfredo Pinto",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Caruaru/ Rua Palmares/Rua Goiana/Rua Argemiro Galvao",
+  "latitude": -8.094351239,
+  "longitude": -34.93686828
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af2"
+  },
+  "ID": 55,
+  "Nome": "Praça do Sena",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Joao Pontes/Rua Capitao Antonio Franca/Rua Capitao Domingos Da Costa",
+  "latitude": -8.095864063,
+  "longitude": -34.9336817
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af3"
+  },
+  "ID": 56,
+  "Nome": "Praça Jornalista Anibal Fernandes",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Estevao Fernandes/Rua Gal Francisco Fiqueiroa/R Capitao Jacinto Da Cruz",
+  "latitude": -8.093486844,
+  "longitude": -34.93011487
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af4"
+  },
+  "ID": 57,
+  "Nome": "Praça Professor Abdgar Soriano",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Frei Manuel Calado/Rua General Francisco Figueiroa",
+  "latitude": -8.09243358,
+  "longitude": -34.93017666
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af5"
+  },
+  "ID": 58,
+  "Nome": "Praça Capiba",
+  "Descricao": "Praça",
+  "Bairro": "Gracas",
+  "Endereco": "Rua Engenheiro Edgar D'Amorim / Rua Do Futuro",
+  "latitude": -8.043766763,
+  "longitude": -34.89813483
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af6"
+  },
+  "ID": 59,
+  "Nome": "Praça Maria da Conceição",
+  "Descricao": "Praça",
+  "Bairro": "Barro",
+  "Endereco": "Rua Otacilio Pessoa/Rua Padre Diogo Rodrigues/Prc Maria Da Conceicao",
+  "latitude": -8.089525934,
+  "longitude": -34.94038585
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af7"
+  },
+  "ID": 60,
+  "Nome": "Praça de Campo Grande",
+  "Descricao": "Praça",
+  "Bairro": "Campo Grande",
+  "Endereco": "Estrada De Belem/ Rua Goncalves Dias/ Rua Catulo Da Paixao Cearense",
+  "latitude": -8.032299001,
+  "longitude": -34.87744157
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af8"
+  },
+  "ID": 61,
+  "Nome": "Praça Augusto Rodrigues",
+  "Descricao": "Praça",
+  "Bairro": "Torreao",
+  "Endereco": "Rua Augusto Rodrigues/Rua Padre Miguelinho/R Dom Joao Da Costa",
+  "latitude": -8.039388541,
+  "longitude": -34.88519858
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447af9"
+  },
+  "ID": 62,
+  "Nome": "Praça da República",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Praca Da Republica",
+  "latitude": -8.060768613,
+  "longitude": -34.87844425
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447afa"
+  },
+  "ID": 63,
+  "Nome": "Praça da República",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Da Praca Da Republica",
+  "latitude": -8.061000454,
+  "longitude": -34.8768515
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447afb"
+  },
+  "ID": 64,
+  "Nome": "Praça da República",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Praca Da Republica",
+  "latitude": -8.06089663,
+  "longitude": -34.87757372
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447afc"
+  },
+  "ID": 65,
+  "Nome": "Praça Gregório Bezerra",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Rua Arumanduba/Rua Souza Bandeira",
+  "latitude": -8.044551422,
+  "longitude": -34.91490004
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447afd"
+  },
+  "ID": 66,
+  "Nome": "Praça do Campo Santo",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Do Pombal/ Avenida  Da Saudade/ Rua Treze De Maio",
+  "latitude": -8.05036453,
+  "longitude": -34.88283192
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447afe"
+  },
+  "ID": 67,
+  "Nome": "Praça Abelardo Rijo",
+  "Descricao": "Praça",
+  "Bairro": "Cabanga",
+  "Endereco": "Rua Capitao Temudo/ Avenida Engenheiro Jose Estelita",
+  "latitude": -8.078168684,
+  "longitude": -34.89174203
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447aff"
+  },
+  "ID": 68,
+  "Nome": "Praça Governador Paulo Guerra",
+  "Descricao": "Praça",
+  "Bairro": "Cabanga",
+  "Endereco": "Avenida Saturnino De Brito/  Rua Capitao Temudo",
+  "latitude": -8.080074629,
+  "longitude": -34.89232223
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b00"
+  },
+  "ID": 69,
+  "Nome": "Praça da Cavalaria",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Delmiro Gouveia/Avenida General San Martin/Rua Apulcro De Assuncao",
+  "latitude": -8.065380736,
+  "longitude": -34.92749122
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b01"
+  },
+  "ID": 70,
+  "Nome": "Praça Dr Adolfo Cirne",
+  "Descricao": "Praça",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua Princesa Izabel/ Rua Do Hospicio/Rua Do Riachuelo",
+  "latitude": -8.058708287,
+  "longitude": -34.88265545
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b02"
+  },
+  "ID": 71,
+  "Nome": "Praça da Cavalaria",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Avenida Consul Vilares Fragoso/Rua Comendador Franco Ferreira/Avenida Gal San Martin",
+  "latitude": -8.065579426,
+  "longitude": -34.92710117
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b03"
+  },
+  "ID": 72,
+  "Nome": "Praça Arari Ferreira Fonseca",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua Romulo Da Fonseca Gomes/ Rua Monsenhor Ferreira Lima",
+  "latitude": -8.029962639,
+  "longitude": -34.93615205
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b04"
+  },
+  "ID": 73,
+  "Nome": "Praça São Benedito Pereira dos Santos",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Tapirema/ Prc Sao Benedito Pereira Dos Santos/R Serra Nova/",
+  "latitude": -8.037886757,
+  "longitude": -34.98178557
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b05"
+  },
+  "ID": 74,
+  "Nome": "Praça Jockey Clube",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Agricolandia /Avenida Professor Moraes Rego",
+  "latitude": -8.043240462,
+  "longitude": -34.94389603
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b06"
+  },
+  "ID": 75,
+  "Nome": "Praça Jockey Clube",
+  "Descricao": "Praça",
+  "Bairro": "Prado",
+  "Endereco": "Rua Carlos Gomes E Jockey Clube",
+  "latitude": -8.061039542,
+  "longitude": -34.91281501
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b07"
+  },
+  "ID": 76,
+  "Nome": "Praça Filonila Ferreira",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Monsenhor Joao Barbalho/Praca Filonila Ferreira",
+  "latitude": -8.041457663,
+  "longitude": -34.95658737
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b08"
+  },
+  "ID": 77,
+  "Nome": "Praça da Paz",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Motocolombo/Rua Da Paz",
+  "latitude": -8.080605731,
+  "longitude": -34.90612789
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b09"
+  },
+  "ID": 78,
+  "Nome": "Praça Bernardo Vieira de Melo",
+  "Descricao": "Praça",
+  "Bairro": "Barro",
+  "Endereco": "Rua Joao Perdigao/Praca Bernardo Vieira De Melo/R Theodorico Selva/Rua Padre Nobrega",
+  "latitude": -8.090245819,
+  "longitude": -34.93875574
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b0a"
+  },
+  "ID": 79,
+  "Nome": "Praça do Sítio Benvenuto",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Jupiacara/Rua Caturite/ Rua Santa Rosa",
+  "latitude": -8.075344456,
+  "longitude": -34.92555684
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b0b"
+  },
+  "ID": 80,
+  "Nome": "Praça do Sítio Benvenuto",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Jupiacara/ Rua Imbituba/ Rua Caturite",
+  "latitude": -8.075233289,
+  "longitude": -34.92502221
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b0c"
+  },
+  "ID": 81,
+  "Nome": "Praça do Sítio Benvenuto",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Jupiacara/ Rua Santo Angelo/ Rua Imbituba",
+  "latitude": -8.075122195,
+  "longitude": -34.9244936
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b0d"
+  },
+  "ID": 82,
+  "Nome": "Praça Abelardo Baltar",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Rua Comendador Moraes",
+  "latitude": -8.087228836,
+  "longitude": -34.88271544
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b0e"
+  },
+  "ID": 83,
+  "Nome": "Praça Abelardo Baltar",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Rua Praca Abelardo Baltar",
+  "latitude": -8.087433482,
+  "longitude": -34.88258653
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b0f"
+  },
+  "ID": 84,
+  "Nome": "Praça do Jordão",
+  "Descricao": "Praça",
+  "Bairro": "Jordao",
+  "Endereco": "Rua Jose Martorano / Rua Dr Alvaro Ferreira / Rua Lima Campos",
+  "latitude": -8.130504443,
+  "longitude": -34.938465
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b10"
+  },
+  "ID": 85,
+  "Nome": "Praça Luz da Fraternidade",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Araquara / Rua Engenho Timbi / Avenida Rio Sao Francisco",
+  "latitude": -8.115080632,
+  "longitude": -34.95025587
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b11"
+  },
+  "ID": 86,
+  "Nome": "Praça Sebastião Pontes",
+  "Descricao": "Praca",
+  "Bairro": "Areias",
+  "Endereco": "Praca Sebastiao Pontes/Rua Capitao Amaro Cerqueira/Rua Capitao Domingos Costa",
+  "latitude": -8.09759545,
+  "longitude": -34.93388892
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b12"
+  },
+  "ID": 87,
+  "Nome": "Praça Presidente Kennedy",
+  "Descricao": "Praça",
+  "Bairro": "Jordao",
+  "Endereco": "Rua Dona Carentina / Rua Miravania",
+  "latitude": -8.134257824,
+  "longitude": -34.94174368
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b13"
+  },
+  "ID": 88,
+  "Nome": "Praça São José dos Manguinhos",
+  "Descricao": "Praça",
+  "Bairro": "Gracas",
+  "Endereco": "Rua Confederacao Do Equador/Avenida Rui Barbosa",
+  "latitude": -8.048095165,
+  "longitude": -34.89890896
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b14"
+  },
+  "ID": 89,
+  "Nome": "Praça Elvira Andrade de Souza",
+  "Descricao": "Praça",
+  "Bairro": "Gracas",
+  "Endereco": "Rua Paulino Gomes De Souza/Rua Alberto Paiva",
+  "latitude": -8.043753544,
+  "longitude": -34.9012548
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b15"
+  },
+  "ID": 90,
+  "Nome": "Praça Marcelino Champagnat",
+  "Descricao": "Praça",
+  "Bairro": "Gracas",
+  "Endereco": "Rua Paulino Gomes De Souza",
+  "latitude": -8.041620727,
+  "longitude": -34.90053842
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b16"
+  },
+  "ID": 91,
+  "Nome": "Praça Professor Fleming",
+  "Descricao": "Praça",
+  "Bairro": "Jaqueira",
+  "Endereco": "Rua Muniz Tavares",
+  "latitude": -8.035270957,
+  "longitude": -34.90591214
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b17"
+  },
+  "ID": 92,
+  "Nome": "Parque da Jaqueira",
+  "Descricao": "Parque",
+  "Bairro": "Jaqueira",
+  "Endereco": "Rua Do Futuro/Rua Deputado Pedro Pires Ferreira/ Avenida Rui Barbosa",
+  "latitude": -8.036906181,
+  "longitude": -34.90482213
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b18"
+  },
+  "ID": 93,
+  "Nome": "Praça de Casa Forte",
+  "Descricao": "Praça",
+  "Bairro": "Casa Forte",
+  "Endereco": "Avenida Dezessete De Agosto",
+  "latitude": -8.035374529,
+  "longitude": -34.91975305
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b19"
+  },
+  "ID": 94,
+  "Nome": "Praça Alice de Albuquerque",
+  "Descricao": "Praça",
+  "Bairro": "Cajueiro",
+  "Endereco": "Rua Couto Soares/R Adolfo Simoes Barbosa",
+  "latitude": -8.012737276,
+  "longitude": -34.88380124
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b1a"
+  },
+  "ID": 95,
+  "Nome": "Praça de Casa Forte",
+  "Descricao": "Praça",
+  "Bairro": "Casa Forte",
+  "Endereco": "Rua Casa Forte",
+  "latitude": -8.033866468,
+  "longitude": -34.91895114
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b1b"
+  },
+  "ID": 96,
+  "Nome": "Praça Farias Neves",
+  "Descricao": "Praça",
+  "Bairro": "Dois Irmaos",
+  "Endereco": "Rua Dois Irmaos / Avenida Dom Manoel De Medeiros",
+  "latitude": -8.015644143,
+  "longitude": -34.94419349
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b1c"
+  },
+  "ID": 97,
+  "Nome": "Praça do Trabalho",
+  "Descricao": "Praça",
+  "Bairro": "Casa Amarela",
+  "Endereco": "Avenida Norte Miguel Arraes De Alencar/ Rua Fernando De Souza Caete",
+  "latitude": -8.023225392,
+  "longitude": -34.91452741
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b1d"
+  },
+  "ID": 98,
+  "Nome": "Praça Batista da Silva",
+  "Descricao": "Praca",
+  "Bairro": "Torre",
+  "Endereco": "Rua Prof Trajano De Mendonca/ R Jose Bonifacio",
+  "latitude": -8.042476011,
+  "longitude": -34.90834573
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b1e"
+  },
+  "ID": 99,
+  "Nome": "Praça Ponte D`Uchoa",
+  "Descricao": "Praça",
+  "Bairro": "Jaqueira",
+  "Endereco": "Avenida Rui Barbosa/ Rua Madre Loyola/ Rua Antonio Celso Uchoa Cavalcanti",
+  "latitude": -8.041396064,
+  "longitude": -34.9033467
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b1f"
+  },
+  "ID": 100,
+  "Nome": "Praça Barão de Caiara",
+  "Descricao": "Praca",
+  "Bairro": "Santana",
+  "Endereco": "Rua Afonso De Albuquerque De Melo/Rua Leonardo Bezerra Cavalcante",
+  "latitude": -8.038067213,
+  "longitude": -34.91098217
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b20"
+  },
+  "ID": 101,
+  "Nome": "Praça Ascenço Ferreira",
+  "Descricao": "Praça",
+  "Bairro": "Recife",
+  "Endereco": "Avenida Rio Branco/Rua Madre Deus",
+  "latitude": -8.06255675,
+  "longitude": -34.8736634
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b21"
+  },
+  "ID": 102,
+  "Nome": "Praça da Convenção",
+  "Descricao": "Praça",
+  "Bairro": "Beberibe",
+  "Endereco": "Avenida Beberibe",
+  "latitude": -8.003341827,
+  "longitude": -34.89751891
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b22"
+  },
+  "ID": 103,
+  "Nome": "Praça Vinte de Julho",
+  "Descricao": "Praça",
+  "Bairro": "Campo Grande",
+  "Endereco": "Marques De Baipendi",
+  "latitude": -8.025503039,
+  "longitude": -34.87881908
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b23"
+  },
+  "ID": 104,
+  "Nome": "Praça Vinte de Julho",
+  "Descricao": "Praça",
+  "Bairro": "Campo Grande",
+  "Endereco": "Rua Marques De Baipendi/Rua Cirilino Afonso De Melo",
+  "latitude": -8.025687475,
+  "longitude": -34.87890863
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b24"
+  },
+  "ID": 105,
+  "Nome": "Praça Vinte de Julho",
+  "Descricao": "Praça",
+  "Bairro": "Campo Grande",
+  "Endereco": "Rua Carlindo Afonso De Melo/Rua Farias Neves/Rua Tenente Guimaraes",
+  "latitude": -8.025966409,
+  "longitude": -34.8788127
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b25"
+  },
+  "ID": 106,
+  "Nome": "Praça do Bom Pastor",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua Bom Pastor/ Avenida Mucio Uchoa Cavalcanti",
+  "latitude": -8.048658972,
+  "longitude": -34.94001791
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b26"
+  },
+  "ID": 107,
+  "Nome": "Praça Simão Borba",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Simao Borba/ Rua Parente Viana/Rua Ernesto Nazareth",
+  "latitude": -8.096811109,
+  "longitude": -34.92477434
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b27"
+  },
+  "ID": 108,
+  "Nome": "Praça Jules Rimet",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Boa Viagem",
+  "latitude": -8.101686472,
+  "longitude": -34.8854526
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b28"
+  },
+  "ID": 109,
+  "Nome": "Praça La Coruna",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Boa Viagem",
+  "latitude": -8.104925343,
+  "longitude": -34.88705959
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b29"
+  },
+  "ID": 110,
+  "Nome": "Parque Infantil Walt Disney",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Rua Zeferino Galvao",
+  "latitude": -8.107954945,
+  "longitude": -34.88907809
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b2a"
+  },
+  "ID": 111,
+  "Nome": "Praça Cidade do Porto",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Conselheiro Aguiar / Rua Senador Helio Coutinho",
+  "latitude": -8.105831462,
+  "longitude": -34.88912514
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b2b"
+  },
+  "ID": 112,
+  "Nome": "Praça Cidade do Porto",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Conselheiro Aguiar / Rua Jornalista Francisco Almeida",
+  "latitude": -8.10641352,
+  "longitude": -34.88937024
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b2c"
+  },
+  "ID": 113,
+  "Nome": "Praça Cidade do Porto",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Cons Aguiar / Rua Sen Helio Coutinho / Avenida Eng Domingos Ferreira / Rua Jorn Francisco Almeida",
+  "latitude": -8.106038844,
+  "longitude": -34.88944621
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b2d"
+  },
+  "ID": 114,
+  "Nome": "Praça Visconde de Mauá",
+  "Descricao": "Praça",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Rua Barao Da Vitória",
+  "latitude": -8.066949294,
+  "longitude": -34.88301092
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b2e"
+  },
+  "ID": 115,
+  "Nome": "Praça Visconde de Mauá",
+  "Descricao": "Praça",
+  "Bairro": "Rosarinho",
+  "Endereco": "Rua Regueira Costa/ Rua Gal Abreu E Lima",
+  "latitude": -8.032290771,
+  "longitude": -34.89841292
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b2f"
+  },
+  "ID": 116,
+  "Nome": "Praça Arsenal da Marinha",
+  "Descricao": "Praça",
+  "Bairro": "Recife",
+  "Endereco": "Rua Da Guia / Rua Do Observatório",
+  "latitude": -8.061041053,
+  "longitude": -34.87128455
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b30"
+  },
+  "ID": 117,
+  "Nome": "Parque Treze de Maio",
+  "Descricao": "Parque",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Da Saudade/ Rua Joao Lima/Rua Do Hospicio",
+  "latitude": -8.056972105,
+  "longitude": -34.8815344
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b31"
+  },
+  "ID": 118,
+  "Nome": "Praça da Convenção",
+  "Descricao": "Praça",
+  "Bairro": "Beberibe",
+  "Endereco": "Avenida Beberibe",
+  "latitude": -8.002903481,
+  "longitude": -34.89772051
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b32"
+  },
+  "ID": 119,
+  "Nome": "Praça da Convenção",
+  "Descricao": "Praça",
+  "Bairro": "Beberibe",
+  "Endereco": "Rua Praca Da Convencao",
+  "latitude": -8.002374716,
+  "longitude": -34.89726771
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b33"
+  },
+  "ID": 120,
+  "Nome": "Praça do Berardo",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Joao Crescencio/Ricardo Salazar/Adolfo Criacao Antonio De S",
+  "latitude": -8.05663446,
+  "longitude": -34.91250896
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b34"
+  },
+  "ID": 121,
+  "Nome": "Praça Beatriz Pereira Carneiro",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Dona Sinha Menezes/ R Dona Leonor Porto",
+  "latitude": -8.040415151,
+  "longitude": -34.87065066
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b35"
+  },
+  "ID": 122,
+  "Nome": "Praça Professor Agamenon Magalhães",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Avenida Norte Miguel Arraes De Alencar/ Rua Joaquim Rabelo",
+  "latitude": -8.043876748,
+  "longitude": -34.88213478
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b36"
+  },
+  "ID": 123,
+  "Nome": "Praça Ministro João Gonçalves de Souza",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua Borges Da Fonseca/Rua General Vargas",
+  "latitude": -8.048164548,
+  "longitude": -34.94373587
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b37"
+  },
+  "ID": 124,
+  "Nome": "Parque do Forte do Arraial Novo do Bom Jesus",
+  "Descricao": "Parque",
+  "Bairro": "Torroes",
+  "Endereco": "Rua Antonio Valdevino Costa/Est Do A Novo Do B Jesus/R Maravilha/ R Dezesseis De Outubro",
+  "latitude": -8.05849178,
+  "longitude": -34.93190824
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b38"
+  },
+  "ID": 125,
+  "Nome": "Parque do Forte do Arraial Novo do Bom Jesus",
+  "Descricao": "Parque",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Profa Laura Ferreira Da Costa/Est Do Forte Do Arraial N Do Bom Jesus/R Antonio Valdevino Costa",
+  "latitude": -8.056643274,
+  "longitude": -34.93093265
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b39"
+  },
+  "ID": 126,
+  "Nome": "Praça Eça de Queiroz",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Januario Barbosa/Avenida Visconde De Albuquerque/R Des Luiz Salazar / Rua Pessoa De Melo",
+  "latitude": -8.050718298,
+  "longitude": -34.90697695
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b3a"
+  },
+  "ID": 127,
+  "Nome": "Praça Solange Pinto Melo",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Real Da Torre/ Rua Jose Osorio",
+  "latitude": -8.052486506,
+  "longitude": -34.90866922
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b3b"
+  },
+  "ID": 128,
+  "Nome": "Praça Solange Pinto Melo",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Jose Osorio/ Rua Real Da Torre",
+  "latitude": -8.054042493,
+  "longitude": -34.90886132
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b3c"
+  },
+  "ID": 129,
+  "Nome": "Praça Tobias Vitorino da Silva",
+  "Descricao": "Praça",
+  "Bairro": "Cajueiro",
+  "Endereco": "Rua Barao De Tracunhaem/R Dr Paulo Ramos/ R Luiz Clericuzzi",
+  "latitude": -8.012621221,
+  "longitude": -34.88648683
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b3d"
+  },
+  "ID": 130,
+  "Nome": "Praça da Redenção",
+  "Descricao": "Praça",
+  "Bairro": "Engenho Do Meio",
+  "Endereco": "Rua Antonio Borges Uchoa/ Praca Da Redencao",
+  "latitude": -8.055797033,
+  "longitude": -34.9457789
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b3e"
+  },
+  "ID": 131,
+  "Nome": "Praça Domingos Giovanetti",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Avenida Beira Rio/ R Padre Anchieta/ R Clovis Bevilacua",
+  "latitude": -8.047287513,
+  "longitude": -34.90435936
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b3f"
+  },
+  "ID": 132,
+  "Nome": "Praça Astério Rufino Alves",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Avenida Estancia/Rua Barros Sobrinho/Rua Dr Adelino Filho",
+  "latitude": -8.086152993,
+  "longitude": -34.93252543
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b40"
+  },
+  "ID": 133,
+  "Nome": "Praça Luiz Gonzaga",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Boa Sorte / Rua Engenhjo Barro Alto / Rua Engenho Tabare / Rua Engenho Curralinho",
+  "latitude": -8.114512026,
+  "longitude": -34.95083597
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b41"
+  },
+  "ID": 134,
+  "Nome": "Praça Tertuliano Feitosa",
+  "Descricao": "Praça",
+  "Bairro": "Hipodromo",
+  "Endereco": "Rua Ascenso Ferreira/Rua Carlos Fernandes/R Nogueira Limar Fonseca Oliveira",
+  "latitude": -8.031892077,
+  "longitude": -34.88655079
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b42"
+  },
+  "ID": 135,
+  "Nome": "Praça Ulisses Leon de Oliveira",
+  "Descricao": "Praça",
+  "Bairro": "Hipodromo",
+  "Endereco": "Rua Madre Rosa Gatorno/Rua Marques De Baipendi/R Prof Jeronimo Gueiros",
+  "latitude": -8.02933478,
+  "longitude": -34.88946523
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b43"
+  },
+  "ID": 136,
+  "Nome": "Praça Antônio Luiz",
+  "Descricao": "Praça",
+  "Bairro": "Ponto De Parada",
+  "Endereco": "Rua Dr Raimundo Cavalcanti  Uchoa/ Avenida Prof Jose Dos Anjos/ Rua Petronila Botelho",
+  "latitude": -8.028152063,
+  "longitude": -34.89072248
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b44"
+  },
+  "ID": 137,
+  "Nome": "Praça Luiz Inácio Pessoa de Mello",
+  "Descricao": "Praça",
+  "Bairro": "Ponto De Parada",
+  "Endereco": "Avenida Santos Dumont/R Couto Magalhaes//Rua Jose Alexandre Cacador",
+  "latitude": -8.030706977,
+  "longitude": -34.89487228
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b45"
+  },
+  "ID": 138,
+  "Nome": "Praça Phaelante da Câmara",
+  "Descricao": "Praça",
+  "Bairro": "Rosarinho",
+  "Endereco": "Avenida Norte/Avenida Santos Dumont",
+  "latitude": -8.033021471,
+  "longitude": -34.89645357
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b46"
+  },
+  "ID": 139,
+  "Nome": "Praça Amaro Albino Pimentel",
+  "Descricao": "Praça",
+  "Bairro": "Tamarineira",
+  "Endereco": "Avenida Eng. Agamenon Magalhães De Melo / Rua Canapolis",
+  "latitude": -8.029928162,
+  "longitude": -34.89786528
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b47"
+  },
+  "ID": 140,
+  "Nome": "Praça José Sales Filho",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Avenida Beira Rio",
+  "latitude": -8.045159731,
+  "longitude": -34.9046566
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b48"
+  },
+  "ID": 141,
+  "Nome": "Praça Professor Coelho de Almeida",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Avenida Caxanga/Avenida Mario Alvares Pereira De Lyra/R Cons Silveira De Souza/R Prof Coelho De Almeida",
+  "latitude": -8.045449563,
+  "longitude": -34.93159909
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b49"
+  },
+  "ID": 142,
+  "Nome": "Praça Pinto Damaso",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Avenida Afonso Olindense/Rua Coronel Pacheco/ Prc Pinto Damaso",
+  "latitude": -8.048372188,
+  "longitude": -34.95930836
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b4a"
+  },
+  "ID": 143,
+  "Nome": "Praça Manuel Markman",
+  "Descricao": "Praca",
+  "Bairro": "Parnamirim",
+  "Endereco": "Rua Joao Tude De Melo/Rua Leonardo Bezerra Cavalcante",
+  "latitude": -8.036473407,
+  "longitude": -34.90945407
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b4b"
+  },
+  "ID": 144,
+  "Nome": "Praça Pinto Damaso",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Avenida Afonso Olindense /Rua Azeredo Coutinho/Rua Coronel Pacheco",
+  "latitude": -8.049159781,
+  "longitude": -34.9594845
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b4c"
+  },
+  "ID": 145,
+  "Nome": "Praça do Caxanga",
+  "Descricao": "Praça",
+  "Bairro": "Caxanga",
+  "Endereco": "Avenida Caxanga/ Praca Do Caxanga",
+  "latitude": -8.031182701,
+  "longitude": -34.95495451
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b4d"
+  },
+  "ID": 146,
+  "Nome": "Praça João Vinte e Três",
+  "Descricao": "Praça",
+  "Bairro": "Curado",
+  "Endereco": "Rua Itauna/ Rua Maranguape",
+  "latitude": -8.083224468,
+  "longitude": -34.95535994
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b4e"
+  },
+  "ID": 147,
+  "Nome": "Praça Mercia de Albuquerque",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Manuel De Aguiar/Rua Capitao Francisco Coutinho/Rua Capitao Sebastiao Ferreira",
+  "latitude": -8.095123619,
+  "longitude": -34.93238217
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b4f"
+  },
+  "ID": 148,
+  "Nome": "Praça Olavo Bilac",
+  "Descricao": "Praca",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Do Hospicio/ Rua Do Principe",
+  "latitude": -8.057103901,
+  "longitude": -34.88299549
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b50"
+  },
+  "ID": 149,
+  "Nome": "Praça Desembargador Carlos Xavier Paes Barreto",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Vicente Licinio/ Avenida Senador Robert Kennedy/ R Manoel Bekmann/ Rua Anita Garibaldi",
+  "latitude": -8.118049717,
+  "longitude": -34.92051981
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b51"
+  },
+  "ID": 150,
+  "Nome": "Praça Aleixo de Oliveira",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Aristides Lobo/Rua Adolfo Faro/Rua Helio Brandao",
+  "latitude": -8.112473679,
+  "longitude": -34.92441046
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b52"
+  },
+  "ID": 151,
+  "Nome": "Praça Sebastião Malta",
+  "Descricao": "Praça",
+  "Bairro": "Jordao",
+  "Endereco": "Rua Alberto Lundgren / Avenida Dona Carentina / Avenida Governador Roberto Silveira",
+  "latitude": -8.136669744,
+  "longitude": -34.9369309
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b53"
+  },
+  "ID": 152,
+  "Nome": "Praça Marcantônio Vilaça",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Rua Alexandrino Martins Rodrigues / Rua Joaquim Carneiro Da Silva / Rua Mario Gomes De Matos",
+  "latitude": -8.098990627,
+  "longitude": -34.88932383
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b54"
+  },
+  "ID": 153,
+  "Nome": "Praça Selecao 70",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Armindo Moura / R Capitao Lopes Braganca / R Eugenio Coimbra Junior/R General Charles De Gaulle",
+  "latitude": -8.150688881,
+  "longitude": -34.91047983
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b55"
+  },
+  "ID": 154,
+  "Nome": "Praça da Rua Carlos Gomes/ do Cavalo Dourado",
+  "Descricao": "Praça",
+  "Bairro": "Prado",
+  "Endereco": "Rua Gomes Taborda / R Carlos Gomes",
+  "latitude": -8.059028696,
+  "longitude": -34.91222267
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b56"
+  },
+  "ID": 155,
+  "Nome": "Praça do Derby",
+  "Descricao": "Praça",
+  "Bairro": "Derby",
+  "Endereco": "Avenida Governador Agamenon Magalhaes/Rua Jener De Souza",
+  "latitude": -8.056286413,
+  "longitude": -34.89910823
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b57"
+  },
+  "ID": 156,
+  "Nome": "Praça do Derby",
+  "Descricao": "Praça",
+  "Bairro": "Derby",
+  "Endereco": "Avenida Governador Agamenon Magalhaes/Rua Jener De Souza",
+  "latitude": -8.057136516,
+  "longitude": -34.89908761
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b58"
+  },
+  "ID": 157,
+  "Nome": "Praça Poeta Fernando Pessoa",
+  "Descricao": "Praca",
+  "Bairro": "Derby",
+  "Endereco": "Rua Amaro Bezerra",
+  "latitude": -8.055958926,
+  "longitude": -34.90106576
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b59"
+  },
+  "ID": 158,
+  "Nome": "Praça do Entroncamento",
+  "Descricao": "Praça",
+  "Bairro": "Gracas",
+  "Endereco": "Avenida Rui Barbosa/Avenida Cons Rosa E Silva",
+  "latitude": -8.050457829,
+  "longitude": -34.897231
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b5a"
+  },
+  "ID": 159,
+  "Nome": "Praça da FEB",
+  "Descricao": "Praça",
+  "Bairro": "Aflitos",
+  "Endereco": "Rua Quarenta E Oito / Rua Amapa",
+  "latitude": -8.040594222,
+  "longitude": -34.89473909
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b5b"
+  },
+  "ID": 160,
+  "Nome": "Praça Capiba",
+  "Descricao": "Praça",
+  "Bairro": "Cajueiro",
+  "Endereco": "Rua Manoel Brandao/R Urca / Para",
+  "latitude": -8.009030103,
+  "longitude": -34.88522124
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b5c"
+  },
+  "ID": 161,
+  "Nome": "Praça Onze de Junho",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Moraes De Inhama/Avenida Cruz Cabuga/Rua Dona Leonor Porto",
+  "latitude": -8.044146364,
+  "longitude": -34.87414291
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b5d"
+  },
+  "ID": 162,
+  "Nome": "Praça Onze de Junho",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Avenida Prefeitom Artur Lima Cavalcanti",
+  "latitude": -8.045000556,
+  "longitude": -34.87471854
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b5e"
+  },
+  "ID": 163,
+  "Nome": "Praça Melvin Jones",
+  "Descricao": "Praça",
+  "Bairro": "Parnamirim",
+  "Endereco": "Rua Padre Roma/Rua Sebastiao Malta Arcoverde",
+  "latitude": -8.033058472,
+  "longitude": -34.90728339
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b5f"
+  },
+  "ID": 164,
+  "Nome": "Praça Mano Teodósio",
+  "Descricao": "Praça",
+  "Bairro": "Poco",
+  "Endereco": "Estra Real Do Poco",
+  "latitude": -8.036080917,
+  "longitude": -34.92464338
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b60"
+  },
+  "ID": 165,
+  "Nome": "Praça de Apipucos",
+  "Descricao": "Praça",
+  "Bairro": "Apipucos",
+  "Endereco": "Rua Apipucos  / Rua Alianca",
+  "latitude": -8.020943313,
+  "longitude": -34.93562139
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b61"
+  },
+  "ID": 166,
+  "Nome": "Praça Vila do Moinho Recife",
+  "Descricao": "Praça",
+  "Bairro": "Encruzilhada",
+  "Endereco": "Estrada De Belem/Rua Castro Alves",
+  "latitude": -8.037152315,
+  "longitude": -34.89067859
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b62"
+  },
+  "ID": 167,
+  "Nome": "Praça Othon Bezerra de Melo",
+  "Descricao": "Praça",
+  "Bairro": "Macaxeira",
+  "Endereco": "Rua Regina/ Rua Ana/ Rua Ida",
+  "latitude": -8.015465916,
+  "longitude": -34.92860365
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b63"
+  },
+  "ID": 168,
+  "Nome": "Largo da Encruzilhada",
+  "Descricao": "Praça",
+  "Bairro": "Encruzilhada",
+  "Endereco": "Avenida Joao De Barros/Rua Dr Jose Maria/Avenida Beberibe",
+  "latitude": -8.037350908,
+  "longitude": -34.89142217
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b64"
+  },
+  "ID": 169,
+  "Nome": "Praça Professor Ageu Magalhães",
+  "Descricao": "Praça",
+  "Bairro": "Derby",
+  "Endereco": "Rua Jenner De Souza",
+  "latitude": -8.05733666,
+  "longitude": -34.90025304
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b65"
+  },
+  "ID": 170,
+  "Nome": "Praça Manuel Markman",
+  "Descricao": "Praca",
+  "Bairro": "Parnamirim",
+  "Endereco": "Joao Tude De Melo",
+  "latitude": -8.036620728,
+  "longitude": -34.90947217
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b66"
+  },
+  "ID": 171,
+  "Nome": "Praça José Sales Filho",
+  "Descricao": "Praca",
+  "Bairro": "Torre",
+  "Endereco": "Avenida Beira Rio",
+  "latitude": -8.044528018,
+  "longitude": -34.90482779
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b67"
+  },
+  "ID": 172,
+  "Nome": "Praça Doutor Pedro Alves Neto",
+  "Descricao": "Praça",
+  "Bairro": "Agua Fria",
+  "Endereco": "Avenida Beberibe/ Rua Da Regeneracao",
+  "latitude": -8.018591518,
+  "longitude": -34.89320584
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b68"
+  },
+  "ID": 173,
+  "Nome": "Praça Doutor Pedro Alves Neto",
+  "Descricao": "Praça",
+  "Bairro": "Agua Fria",
+  "Endereco": "Avenida Beberibe/ Rua Dr Eudes Costa",
+  "latitude": -8.01839404,
+  "longitude": -34.89336753
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b69"
+  },
+  "ID": 174,
+  "Nome": "Praça Profeta Joseph Smith",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Avenida Engenheiro Domingos Ferreira",
+  "latitude": -8.098106912,
+  "longitude": -34.88634993
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b6a"
+  },
+  "ID": 175,
+  "Nome": "Praça Professor Doutor Antônio Figueira",
+  "Descricao": "Praça",
+  "Bairro": "Poco",
+  "Endereco": "Estrada Real Do Poco",
+  "latitude": -8.03549863,
+  "longitude": -34.92324247
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b6b"
+  },
+  "ID": 176,
+  "Nome": "Praça Josenildo Paes Barreto",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Retiro",
+  "Endereco": "Rua Joao Elisio Ramos/ Rua Dr Joao Marques",
+  "latitude": -8.06303777,
+  "longitude": -34.90501267
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b6c"
+  },
+  "ID": 177,
+  "Nome": "Praça Dom Miguel Valverde",
+  "Descricao": "Praça",
+  "Bairro": "Encruzilhada",
+  "Endereco": "Rua Amaro Coutinho/Rua Fernando Cesar/R Inacio Galvao Dos Santos",
+  "latitude": -8.03553322,
+  "longitude": -34.89271976
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b6d"
+  },
+  "ID": 178,
+  "Nome": "Praça A.B.C",
+  "Descricao": "Praça",
+  "Bairro": "Mustardinha",
+  "Endereco": "Rua Jose Bezerra Cavalcante/Avenida Manoel Goncalves Da Paz/R Jetucupapo/R Neto Campelo Junior",
+  "latitude": -8.073494139,
+  "longitude": -34.91860271
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b6e"
+  },
+  "ID": 179,
+  "Nome": "Praça Jornalista Antônio Teixeira Junior",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Engenheiro Domingos Ferreira / Rua Viscinde De Jequitinhonha",
+  "latitude": -8.129670524,
+  "longitude": -34.90246713
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b6f"
+  },
+  "ID": 180,
+  "Nome": "Praça Alberto Pinto",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Arnobio Marques/ Avenida Agamenon  Magalhaes",
+  "latitude": -8.045053479,
+  "longitude": -34.88864
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b70"
+  },
+  "ID": 181,
+  "Nome": "Praça Faca Cega",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Currais Novos / Rua Guama / Rua Gurupa / Rua Mecejana",
+  "latitude": -8.119843092,
+  "longitude": -34.95611551
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b71"
+  },
+  "ID": 182,
+  "Nome": "Praça Doutor Júlio Campelo",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua Dr Julio Campelo/Rlucilo Varejao/ Rua Jose Pessoa De Queiroz",
+  "latitude": -8.032431242,
+  "longitude": -34.93133529
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b72"
+  },
+  "ID": 183,
+  "Nome": "Praça Jornalista Otávio Sarmento Cardoso/Coliseu",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Prof Otavio Sarmento Cardoso/ R Torres Gomes/ R Dr Jose Munguba Sobrinho",
+  "latitude": -8.037252355,
+  "longitude": -34.95602863
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b73"
+  },
+  "ID": 184,
+  "Nome": "Praça Angélica",
+  "Descricao": "Praça",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Angelica/ Rua Claudio Brotherhood",
+  "latitude": -8.053687749,
+  "longitude": -34.93151417
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b74"
+  },
+  "ID": 185,
+  "Nome": "Praça Movicar",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Joao Lopes/R Capitao Vicente Moutinho/R Capitao Jeronimo Amaral",
+  "latitude": -8.093465192,
+  "longitude": -34.93254057
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b75"
+  },
+  "ID": 186,
+  "Nome": "Praça das Criancas",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Luiz Sepulveda/Rua Capitao Paulo Teixeira/Rua Capitao Domingos Da Costa",
+  "latitude": -8.098665789,
+  "longitude": -34.93360387
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b76"
+  },
+  "ID": 187,
+  "Nome": "Praça Pedro Brandão",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Jeronimo Inojosa/Rua Sargento Afonso Rodrigues/R Francisco Do Rego/R Capitao Francisco Da Rocha",
+  "latitude": -8.097704971,
+  "longitude": -34.93173386
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b77"
+  },
+  "ID": 188,
+  "Nome": "Praça Eduardo Cardoso/Gregório Albuquerque",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Alvaro Fragoso/R Bento Teixeira/R Capitao Gregorio De Albuquerque/Trv Capitao G De Albuquerque",
+  "latitude": -8.09643717,
+  "longitude": -34.93142046
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b78"
+  },
+  "ID": 189,
+  "Nome": "Praça Irmã Douraci",
+  "Descricao": "Praça",
+  "Bairro": "Mustardinha",
+  "Endereco": "Largo Da Mustardinha/Avenida Manoel Goncalves Da Paz/",
+  "latitude": -8.07181677,
+  "longitude": -34.91832397
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b79"
+  },
+  "ID": 190,
+  "Nome": "Praça El Salvador",
+  "Descricao": "Praça",
+  "Bairro": "Jardim Sao Paulo",
+  "Endereco": "Avenida Sao Paulo",
+  "latitude": -8.076677599,
+  "longitude": -34.94207711
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b7a"
+  },
+  "ID": 191,
+  "Nome": "Praça Noel Rodrigues",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Guy Bastos Junior/ R Comendador Franco Ferreira/Trv Comendador F Ferreira/ Avenida General San Martin",
+  "latitude": -8.067143641,
+  "longitude": -34.92752222
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b7b"
+  },
+  "ID": 192,
+  "Nome": "Praça Noel Rodrigues",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Guy Bastos Junio/ Rua Comendador Franco Ferreira/ Avenida General San Martin",
+  "latitude": -8.066568087,
+  "longitude": -34.92736969
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b7c"
+  },
+  "ID": 193,
+  "Nome": "Praça Dom Bosco",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Mineirolandia/Rua Tenente Mindelo",
+  "latitude": -8.075048933,
+  "longitude": -34.9299451
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b7d"
+  },
+  "ID": 194,
+  "Nome": "Praça Nossa Senhora de Fátima",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Professor Silvio Da Cunha Santos/R Dr Telesphoro Fragoso/Rua Pedro Melo",
+  "latitude": -8.072333057,
+  "longitude": -34.93061711
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b7e"
+  },
+  "ID": 195,
+  "Nome": "Praça professora Antonia Galvão",
+  "Descricao": "Praça",
+  "Bairro": "Agua Fria",
+  "Endereco": "Rua Alegre / R Julio Ramos/ Rua Zeferino Agra",
+  "latitude": -8.021164799,
+  "longitude": -34.89318526
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b7f"
+  },
+  "ID": 196,
+  "Nome": "Praça desenhista Eulino Santos",
+  "Descricao": "Praça",
+  "Bairro": "Arruda",
+  "Endereco": "Rua Da Regeneracao/R Desenhista Eulino Santos",
+  "latitude": -8.022917866,
+  "longitude": -34.88311476
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b80"
+  },
+  "ID": 197,
+  "Nome": "Praça do Cajueiro",
+  "Descricao": "Praça",
+  "Bairro": "Cajueiro",
+  "Endereco": "Rua Tenente Wanderley/R Maria Cristina Tasso De Souza/R Couto Soares",
+  "latitude": -8.01281867,
+  "longitude": -34.88307815
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b81"
+  },
+  "ID": 198,
+  "Nome": "Praça Sementes do Amanhã",
+  "Descricao": "Praça",
+  "Bairro": "Campina Do Barreto",
+  "Endereco": "Avenida Sebastiao Salazar/ Rua Couto Soares",
+  "latitude": -8.013098914,
+  "longitude": -34.88177275
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b82"
+  },
+  "ID": 199,
+  "Nome": "Praça do Colégio Jarbas Pernambucano",
+  "Descricao": "Praça",
+  "Bairro": "Cajueiro",
+  "Endereco": "Avenida Sebastiao Salazar/ Rua Barao De Tamandare",
+  "latitude": -8.011087595,
+  "longitude": -34.88380149
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b83"
+  },
+  "ID": 200,
+  "Nome": "Praça Lagoa do Araça",
+  "Descricao": "Parque",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Jose Ferreira Lins / Rua Engenheiro Jose Brandao Cavalcante",
+  "latitude": -8.094360461,
+  "longitude": -34.91491461
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b84"
+  },
+  "ID": 201,
+  "Nome": "Praça Rádio Capibaribe",
+  "Descricao": "Praça",
+  "Bairro": "Campina Do Barreto",
+  "Endereco": "Rua Coronel Urbano Ribeiro De Sena/Rua Noroeste",
+  "latitude": -8.014349772,
+  "longitude": -34.88321901
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b85"
+  },
+  "ID": 202,
+  "Nome": "Praça Rádio Capibaribe",
+  "Descricao": "Praça",
+  "Bairro": "Campina Do Barreto",
+  "Endereco": "Rua Coronel Urbano Ribeiro De Sena",
+  "latitude": -8.013924604,
+  "longitude": -34.88304571
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b86"
+  },
+  "ID": 203,
+  "Nome": "Praça da Igreja",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Capitao Pero Miranda",
+  "latitude": -8.129980705,
+  "longitude": -34.94806974
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b87"
+  },
+  "ID": 204,
+  "Nome": "Praça do Comar",
+  "Descricao": "Praça",
+  "Bairro": "Dois Unidos",
+  "Endereco": "Rua Joao Cavalcante Petribu/Rua Hidelbrando De Vasconcelos",
+  "latitude": -7.990179773,
+  "longitude": -34.91556605
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b88"
+  },
+  "ID": 205,
+  "Nome": "Praça Raizes",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Bem Querer / Rua Engenho Bela Flor / R Engenho Barra Branca / R Engenho Bela Rosa",
+  "latitude": -8.112185887,
+  "longitude": -34.95060483
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b89"
+  },
+  "ID": 206,
+  "Nome": "Praça da Amizade",
+  "Descricao": "Praça",
+  "Bairro": "Torroes",
+  "Endereco": "Rua Leila Felix Karam/Rua Dr Aniceto Ribeiro Varejao/R Des Capistrano De Moraes E Silva",
+  "latitude": -8.065087774,
+  "longitude": -34.93222682
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b8a"
+  },
+  "ID": 207,
+  "Nome": "Praça do Fundão",
+  "Descricao": "Praça",
+  "Bairro": "Fundao",
+  "Endereco": "Avenida Beberibe",
+  "latitude": -8.013909336,
+  "longitude": -34.88944698
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b8b"
+  },
+  "ID": 208,
+  "Nome": "Praça Professor Trajano",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Rua Prof Trajano De Mendonca / R Jose De Holanda / R Real Da Torre",
+  "latitude": -8.044982837,
+  "longitude": -34.90996987
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b8c"
+  },
+  "ID": 209,
+  "Nome": "Praça São Francisco de Assis",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Vale Do Siriji /R Vale Do Jaguaribe/ R Soldado Jose Vivancio",
+  "latitude": -8.036490888,
+  "longitude": -34.9757881
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b8d"
+  },
+  "ID": 210,
+  "Nome": "Praça Tamarindo",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Firmeza / Rua Engenho Timbi / Rua Engenho Tabare / Rua Engenho Segredo",
+  "latitude": -8.114388946,
+  "longitude": -34.9501783
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b8e"
+  },
+  "ID": 211,
+  "Nome": "Praça  João Maurício Campos",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Tenente Joao Mauricio Campos / Rua Capitao Luiz Dorneles",
+  "latitude": -8.121774812,
+  "longitude": -34.94565974
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b8f"
+  },
+  "ID": 212,
+  "Nome": "Praça Artur Lima Cavalcanti",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Avenida Prefeito Artur Lima Cavalcanti",
+  "latitude": -8.045358016,
+  "longitude": -34.874266
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b90"
+  },
+  "ID": 213,
+  "Nome": "Praça da travessa José Leite",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Travessa Jose Leite",
+  "latitude": -8.089403777,
+  "longitude": -34.88886883
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b91"
+  },
+  "ID": 214,
+  "Nome": "Praça Luiz Americo Willians",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Belo Prado / Rua Engenho Bom Mirar/R Engenhoc Serra Grande/ Rua Engenho Flor Do Bosque",
+  "latitude": -8.113285082,
+  "longitude": -34.95039008
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b92"
+  },
+  "ID": 215,
+  "Nome": "Praça João Rique",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua  Joao Rique/Rua Lucilo Varejao/ Rua Des Oscar Coutinho",
+  "latitude": -8.032167777,
+  "longitude": -34.93204838
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b93"
+  },
+  "ID": 216,
+  "Nome": "Praça José Maria do Nascimento Paraíba/Lixão",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Juparana / Rua Codajas / Avenida Valenca",
+  "latitude": -8.119127435,
+  "longitude": -34.95361817
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b94"
+  },
+  "ID": 217,
+  "Nome": "Praça da rua ABC",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Abc / Rua Aprigio Alves",
+  "latitude": -8.082779575,
+  "longitude": -34.91067924
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b95"
+  },
+  "ID": 218,
+  "Nome": "Praca Santa Luzia",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Lupianopolis / Rua Mandaguacu / Rua Manduri / Rua Rio Paracatu",
+  "latitude": -8.115719677,
+  "longitude": -34.95500836
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b96"
+  },
+  "ID": 219,
+  "Nome": "Praça Brasilit",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Engenheiro Vasconcelos Bittencourt/ Rua Abatia",
+  "latitude": -8.041706266,
+  "longitude": -34.95026367
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b97"
+  },
+  "ID": 220,
+  "Nome": "Praça Sabere",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Emeterio Maciel/ Rua Frutuoso Gomes/Trv Frutuoso Gomes",
+  "latitude": -8.03727147,
+  "longitude": -34.95239724
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b98"
+  },
+  "ID": 221,
+  "Nome": "Praça Quitéria",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Joao Francisco Lisboa/Rua Michael Felix Karan/Rua Quiteria",
+  "latitude": -8.052537548,
+  "longitude": -34.95636268
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b99"
+  },
+  "ID": 222,
+  "Nome": "Praça Carmela Dutra/Ipiranga",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua General Souza Doca/Rua General Guimaraes Cova",
+  "latitude": -8.078167137,
+  "longitude": -34.91432807
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b9a"
+  },
+  "ID": 223,
+  "Nome": "Praça Isabel Cabral",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Vicente Ribeiro De Barros/Rua Luis De Franca Da Costa Cabral",
+  "latitude": -8.080062722,
+  "longitude": -34.91913278
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b9b"
+  },
+  "ID": 224,
+  "Nome": "Praça Joaquim Cardoso/da Biblioteca",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Francisco Uchoa/Rua Prof Augusto Wanderley Filho/Rua Jacira",
+  "latitude": -8.082177592,
+  "longitude": -34.9080519
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b9c"
+  },
+  "ID": 225,
+  "Nome": "Praça João Miguel de Souza Junior",
+  "Descricao": "Praça",
+  "Bairro": "Engenho Do Meio",
+  "Endereco": "R Valdemar Falcao / Avenida Visconde De Sao Leopoldo/R Dom Joao Moura/Trv Valdemar Falcao",
+  "latitude": -8.058880804,
+  "longitude": -34.94576938
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b9d"
+  },
+  "ID": 226,
+  "Nome": "Praça João Miguel de Souza Junior",
+  "Descricao": "Praça",
+  "Bairro": "Engenho Do Meio",
+  "Endereco": "Rua Dom Joao Moura/ Trv Valdemar Falcao/ R Jose Dos Santos/Avenida Visconde De Sao Leopoldo",
+  "latitude": -8.059468402,
+  "longitude": -34.94566536
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b9e"
+  },
+  "ID": 227,
+  "Nome": "Praça Sítio das Palmeiras",
+  "Descricao": "Praça",
+  "Bairro": "Engenho Do Meio",
+  "Endereco": "Rua  Alvaro Texeirade Mesquita/ Rua Bom Pastor /Rua Presidente Washington Luiz",
+  "latitude": -8.051317352,
+  "longitude": -34.93922838
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447b9f"
+  },
+  "ID": 228,
+  "Nome": "Praça Maria Sampaio Lucena",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Avenida Pernambuco / Rua Santa Maria Madalena",
+  "latitude": -8.120939851,
+  "longitude": -34.94593532
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba0"
+  },
+  "ID": 229,
+  "Nome": "Praça Paulo Freire",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Avenida Beira Rio /Rua Demostenes De Olinda",
+  "latitude": -8.04977648,
+  "longitude": -34.90498149
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba1"
+  },
+  "ID": 230,
+  "Nome": "Praça do Finado Leiteiro",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Serra Bonga / Rua Parintins / Rua Sabara / Rua Paulista",
+  "latitude": -8.120234711,
+  "longitude": -34.94726276
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba2"
+  },
+  "ID": 231,
+  "Nome": "Parque Doutor Arnaldo Assunção",
+  "Descricao": "Parque",
+  "Bairro": "Engenho Do Meio",
+  "Endereco": "Rua Antonio Borges Uchoa/ Rua Antonio Curado/ R Manuel Alves Deusdara / R Governador Lopo Garro",
+  "latitude": -8.057223142,
+  "longitude": -34.94285155
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba3"
+  },
+  "ID": 232,
+  "Nome": "Praça Coronel Silva Torres",
+  "Descricao": "Praça",
+  "Bairro": "Derby",
+  "Endereco": "Rua Coronel Silva Torres (Area Militar)",
+  "latitude": -8.053406687,
+  "longitude": -34.90355401
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba4"
+  },
+  "ID": 233,
+  "Nome": "Praça da Rua Cordislândia",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Avenida Marechal Cordeiro De Farias/ Rua Cordislandia/ R Cristovao Cavalcanti",
+  "latitude": -8.039633133,
+  "longitude": -34.93494625
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba5"
+  },
+  "ID": 234,
+  "Nome": "Praça da Alegria",
+  "Descricao": "Praça",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua Des Cunha Barreto/ Rua Da Alegria",
+  "latitude": -8.063708519,
+  "longitude": -34.88698962
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba6"
+  },
+  "ID": 235,
+  "Nome": "Praça da Comunidade",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Rio Indaia / Rua Rio Parnaiba / Rua Rio Juruena / Rua Rio Tapajos",
+  "latitude": -8.116194218,
+  "longitude": -34.94763521
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba7"
+  },
+  "ID": 236,
+  "Nome": "Praça do Forte do Brum",
+  "Descricao": "Praça",
+  "Bairro": "Recife",
+  "Endereco": "Avenida Militar",
+  "latitude": -8.052791938,
+  "longitude": -34.87148251
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba8"
+  },
+  "ID": 237,
+  "Nome": "Praça Cívica",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Alexandre Moura/ Avenida Cruz Cabuga",
+  "latitude": -8.046881037,
+  "longitude": -34.87599171
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447ba9"
+  },
+  "ID": 238,
+  "Nome": "Praça do Escorrego",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Avenida Pernambuco / Rua Rio Arinos / Rua Rio Indaia / Rua Rio Caqueta",
+  "latitude": -8.11750539,
+  "longitude": -34.94688157
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447baa"
+  },
+  "ID": 239,
+  "Nome": "Praça Estevão de Sá",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Avenida Caxanga/ Rua Caxanga Agape",
+  "latitude": -8.036645069,
+  "longitude": -34.94648015
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bab"
+  },
+  "ID": 240,
+  "Nome": "Praça da Rua Caxangá Agape",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Avenida Caxanga/Rua Caxanga Agape",
+  "latitude": -8.036157479,
+  "longitude": -34.94740386
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bac"
+  },
+  "ID": 241,
+  "Nome": "Praça Herois da Restauração /do Buraco",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Caja/Rua Oiticica Lins/Rua Calumbi /Rua Ipojuca",
+  "latitude": -8.097417499,
+  "longitude": -34.93563583
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bad"
+  },
+  "ID": 242,
+  "Nome": "Praça Cristo Rei",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Sao Fidelis / Rua Diamantino / Rua Joanesia / Rua Marlieria",
+  "latitude": -8.120631578,
+  "longitude": -34.95473409
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bae"
+  },
+  "ID": 243,
+  "Nome": "Praça Engenho Poeta/do Rotary",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Avenida Caxanga/ Rua Pedro Lund",
+  "latitude": -8.034238461,
+  "longitude": -34.95088649
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447baf"
+  },
+  "ID": 244,
+  "Nome": "Praça Monsenhor Arruda Camara",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Antonio Vaz/Rua General Francisco Figueiroa",
+  "latitude": -8.091585271,
+  "longitude": -34.93027685
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb0"
+  },
+  "ID": 245,
+  "Nome": "Praça José Cicílio",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Jeronimo Amaral/ R Capitao Vicente Moutinho/Rua Capitao Amador Rodrigues",
+  "latitude": -8.094189484,
+  "longitude": -34.9332826
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb1"
+  },
+  "ID": 246,
+  "Nome": "Praça Antonio Bezerra Pontes",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Praca Do Sena/Rua Capitao Fernao De Melo/Rua Capitao Domingos Da Costa",
+  "latitude": -8.096969362,
+  "longitude": -34.93386564
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb2"
+  },
+  "ID": 247,
+  "Nome": "Praça da Mentira",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Amaro Cerqueira/ Rua Sargento Afonso Rodrigues/ R Cap F Da Rocha/ R Cap A Do Rego",
+  "latitude": -8.096804269,
+  "longitude": -34.9326179
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb3"
+  },
+  "ID": 248,
+  "Nome": "Praça da Rua Água Preta",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Gloria Do Goita / Rua Jaboataorua Agua Preta / Rua Lagoa De Itaenga",
+  "latitude": -8.123178781,
+  "longitude": -34.94748407
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb4"
+  },
+  "ID": 249,
+  "Nome": "Praça da Vtiória",
+  "Descricao": "Praca",
+  "Bairro": "Areias",
+  "Endereco": "Rua Capitao Gregorio De Albuquerque/Avenida Izabel De Goes",
+  "latitude": -8.094423466,
+  "longitude": -34.93421939
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb5"
+  },
+  "ID": 250,
+  "Nome": "Praça da Avenida da Recuperação",
+  "Descricao": "Praça",
+  "Bairro": "Guabiraba",
+  "Endereco": "Avenida Da Recuperacao",
+  "latitude": -7.987094409,
+  "longitude": -34.93509587
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb6"
+  },
+  "ID": 251,
+  "Nome": "Praça Vale do Siriji",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua Vale Do Siriji/ Rua Americo Virgilio",
+  "latitude": -8.036230847,
+  "longitude": -34.97685972
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb7"
+  },
+  "ID": 252,
+  "Nome": "Praça da Rua Solanea",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Solanea/ Rua Mundau/ Rua Pirpirituba/ Rua Guaraquebaca",
+  "latitude": -8.116536938,
+  "longitude": -34.95369235
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb8"
+  },
+  "ID": 253,
+  "Nome": "Praca Arlindo Araujo Filho",
+  "Descricao": "Praca",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Professor José Calazans / 1º Travessa Da Rua Manuel Vieira",
+  "latitude": -8.070507075,
+  "longitude": -34.93289333
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bb9"
+  },
+  "ID": 254,
+  "Nome": "Praça Cais Edgar Amorim",
+  "Descricao": "Praça",
+  "Bairro": "Jaqueira",
+  "Endereco": "Avenida Rui Barbosa",
+  "latitude": -8.037148563,
+  "longitude": -34.90625213
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bba"
+  },
+  "ID": 255,
+  "Nome": "Parque Dona Lindu",
+  "Descricao": "Parque",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Boa Viagem",
+  "latitude": -8.14134971,
+  "longitude": -34.90415197
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bbb"
+  },
+  "ID": 256,
+  "Nome": "Praça Professor Rutilho",
+  "Descricao": "Praca",
+  "Bairro": "Coqueiral",
+  "Endereco": "Rua Professor Rutilho/Rua Inaja/Rua Alcantara/Rua Pagy",
+  "latitude": -8.088984264,
+  "longitude": -34.96728722
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bbc"
+  },
+  "ID": 257,
+  "Nome": "Praça Professor Rutilho",
+  "Descricao": "Praca",
+  "Bairro": "Coqueiral",
+  "Endereco": "Rua Professor Rutilho/Rua Inaja",
+  "latitude": -8.088673735,
+  "longitude": -34.96701413
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bbd"
+  },
+  "ID": 258,
+  "Nome": "Praça Simon Bolivar",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Avenida Governador Agamenon Magalhaes/ Avenida Cruz Cabuga",
+  "latitude": -8.03719613,
+  "longitude": -34.87002708
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bbe"
+  },
+  "ID": 259,
+  "Nome": "Praça Simon Bolivar",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Avenida Gov Agamenon Magalaes/ Avenida Cruz Cabuga",
+  "latitude": -8.03754857,
+  "longitude": -34.87007163
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bbf"
+  },
+  "ID": 260,
+  "Nome": "Praça Memorial Arco Verde",
+  "Descricao": "Parque",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Avenida Agamenon Magalhaes/ Avenida Cruz Cabuga",
+  "latitude": -8.036608071,
+  "longitude": -34.87010932
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc0"
+  },
+  "ID": 261,
+  "Nome": "Praça Memorial Arco Verde",
+  "Descricao": "Parque",
+  "Bairro": "Campo Grande",
+  "Endereco": "Avenida Agamenon Magalhaes/ Avenida Cruz Cabuga",
+  "latitude": -8.03610835,
+  "longitude": -34.87077364
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc1"
+  },
+  "ID": 262,
+  "Nome": "Praça da Avenida Maurício de Nassau",
+  "Descricao": "Praca",
+  "Bairro": "Cordeiro",
+  "Endereco": "Avenida Mauricio Da Nassau/Rua Luiz Carlos Guilherme",
+  "latitude": -8.043500973,
+  "longitude": -34.92234616
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc2"
+  },
+  "ID": 263,
+  "Nome": "Praça da Avenida Maurício de Nassau",
+  "Descricao": "Praca",
+  "Bairro": "Cordeiro",
+  "Endereco": "Avenida Mauricio De Nassau/ Rua Luiz Carlos Guilherme",
+  "latitude": -8.043888562,
+  "longitude": -34.92246046
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc3"
+  },
+  "ID": 264,
+  "Nome": "Praça Silva Jardim",
+  "Descricao": "Praça",
+  "Bairro": "Monteiro",
+  "Endereco": "Avenida Dezessete De Agosto/ Rua Temporal",
+  "latitude": -8.02777343,
+  "longitude": -34.92886297
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc4"
+  },
+  "ID": 265,
+  "Nome": "Praça Quartel General",
+  "Descricao": "Praca",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua Do Hospicio/ Rua Do Principe",
+  "latitude": -8.05811559,
+  "longitude": -34.88327215
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc5"
+  },
+  "ID": 266,
+  "Nome": "Praça José da Mota Silveira",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Arlindo Gouveia/Avenida Beira Rio",
+  "latitude": -8.0564113,
+  "longitude": -34.90379033
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc6"
+  },
+  "ID": 267,
+  "Nome": "Praça Joca Leal",
+  "Descricao": "Praça",
+  "Bairro": "Casa Amarela",
+  "Endereco": "Largo De Casa Amarela/ Rua Santa Izabel",
+  "latitude": -8.026715931,
+  "longitude": -34.91874033
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc7"
+  },
+  "ID": 268,
+  "Nome": "Praça Amaro Lopes/da Fumaça",
+  "Descricao": "Praça",
+  "Bairro": "Alto Jose Do Pinho",
+  "Endereco": "Rua Principal / Rua Monte Horeb",
+  "latitude": -8.023460228,
+  "longitude": -34.90806016
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc8"
+  },
+  "ID": 269,
+  "Nome": "Parque Sítio da Trindade/Arraial V. do Bom Jesus",
+  "Descricao": "Parque",
+  "Bairro": "Casa Amarela",
+  "Endereco": "Estrada Do Arraial / Estrada De Entrocamento/Rua Pedro Afonso",
+  "latitude": -8.030021972,
+  "longitude": -34.91275685
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bc9"
+  },
+  "ID": 270,
+  "Nome": "Praça José Bonifácio",
+  "Descricao": "Praça",
+  "Bairro": "Alto Jose Bonifacio",
+  "Endereco": "Trv Corrego Do Euclides/R Alto Jose Bonifacio/ R Alto Da Serrinha/R Alto Da Conquista/Rua Sao Jose",
+  "latitude": -8.012440826,
+  "longitude": -34.91357212
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bca"
+  },
+  "ID": 271,
+  "Nome": "Praça Jenner de Souza",
+  "Descricao": "Praca",
+  "Bairro": "Derby",
+  "Endereco": "Rua Amaro Bezerra/ R Jenner De Souza",
+  "latitude": -8.054924707,
+  "longitude": -34.90034744
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bcb"
+  },
+  "ID": 272,
+  "Nome": "Praça Otávio de Freitas",
+  "Descricao": "Praça",
+  "Bairro": "Derby",
+  "Endereco": "Rua Jener De Souza/ Rua Amauri De Medeiros",
+  "latitude": -8.057887213,
+  "longitude": -34.90050161
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bcc"
+  },
+  "ID": 273,
+  "Nome": "Praça da Rua José Pimentel",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Jose Pimentel/Rua Candido Portinari/Rua Adolfo Ferreira/Rua Fernando Ferrari",
+  "latitude": -8.114548305,
+  "longitude": -34.91848104
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bcd"
+  },
+  "ID": 274,
+  "Nome": "Largo Dom Luiz",
+  "Descricao": "Praça",
+  "Bairro": "Vasco Da Gama",
+  "Endereco": "Largo Dom Luiz / Avenida Norte Miguel Arraes De Alencar",
+  "latitude": -8.020885691,
+  "longitude": -34.91734692
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bce"
+  },
+  "ID": 275,
+  "Nome": "Praça General Euler Bentes/da Sudene",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Jean Emile Favre/Rua Sartunino Meireles/Avenida Raimundo Diniz/Rua Silveira Neto",
+  "latitude": -8.113887535,
+  "longitude": -34.92190533
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bcf"
+  },
+  "ID": 276,
+  "Nome": "Praça do Monteiro",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Soldado Antonio Aparecido/ Rua Sargrnto Rubens Leite/",
+  "latitude": -8.127494322,
+  "longitude": -34.94578104
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd0"
+  },
+  "ID": 277,
+  "Nome": "Praça Maria Vitalina Gonçalves da Rocha",
+  "Descricao": "Praça",
+  "Bairro": "Bongi",
+  "Endereco": "Rua Dona Maria Augusta Nogueira/Rua Isaac Markman",
+  "latitude": -8.063929747,
+  "longitude": -34.92180501
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd1"
+  },
+  "ID": 278,
+  "Nome": "PRC SENHOR BARTOLOMEU",
+  "Descricao": "Praça",
+  "Bairro": "Macaxeira",
+  "Endereco": "Rua Coronel João Batista Do Rego Barros/ Rua Antonio  Batista De Souza",
+  "latitude": -8.017911929,
+  "longitude": -34.93295864
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd2"
+  },
+  "ID": 279,
+  "Nome": "Praça da Quadra",
+  "Descricao": "Praça",
+  "Bairro": "Vasco Da Gama",
+  "Endereco": "Rua Cassatuba/Rua Catigua",
+  "latitude": -8.012731231,
+  "longitude": -34.92137623
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd3"
+  },
+  "ID": 280,
+  "Nome": "Praça Sitio Grande",
+  "Descricao": "Praça",
+  "Bairro": "Alto Do Mandu",
+  "Endereco": "Avenida Norte Miguel Arraes",
+  "latitude": -8.019765636,
+  "longitude": -34.92688557
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd4"
+  },
+  "ID": 281,
+  "Nome": "Praça Nadir Colaco",
+  "Descricao": "Praça",
+  "Bairro": "Macaxeira",
+  "Endereco": "Avenida Norte Miguel Arraes De Alencar/ Rua Ana/ R Pedro Paes De Mendonca",
+  "latitude": -8.016750179,
+  "longitude": -34.92925896
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd5"
+  },
+  "ID": 282,
+  "Nome": "Praça José Vieira",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Engenho Carauna/ Rua Manoel Serafim Do Couto",
+  "latitude": -8.087220203,
+  "longitude": -34.90516133
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd6"
+  },
+  "ID": 283,
+  "Nome": "Praça José Vieira",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Engenho Agua Clara/ Rua Manoel Serafim Do Couto",
+  "latitude": -8.086877574,
+  "longitude": -34.90536075
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd7"
+  },
+  "ID": 284,
+  "Nome": "Praça da Morena",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Avenida Rio Grande / Rua Rio Jaró / Rua Rio Uruguai",
+  "latitude": -8.116369718,
+  "longitude": -34.94830291
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd8"
+  },
+  "ID": 285,
+  "Nome": "Praça da Morena",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Avenida Rio Grande / Rua Rio Gurupí/ Rua  Rio Parauá",
+  "latitude": -8.11617109,
+  "longitude": -34.94890321
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bd9"
+  },
+  "ID": 286,
+  "Nome": "Praça Campo do Lagoão",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Dr Cezar Montezuma / Rua Alfredo Martins De Almeida",
+  "latitude": -8.128845111,
+  "longitude": -34.95083215
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bda"
+  },
+  "ID": 287,
+  "Nome": "Praça Boco-Moco/da UR 5",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Joao Joaquim De Mello Filho/R Gal Coelho Cintra/ R Des Thomaz C Wanderley/R Alvarenga Peixoto",
+  "latitude": -8.132747044,
+  "longitude": -34.94970258
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bdb"
+  },
+  "ID": 288,
+  "Nome": "Praça Nova Esperança",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Rua Nova Alianca (Vila Uniao)",
+  "latitude": -8.030824123,
+  "longitude": -34.93262109
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bdc"
+  },
+  "ID": 289,
+  "Nome": "Praça Maracangaia",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Guaratuba/Rua Manacapuru/Rua Pirpirituba/Rua Obidos",
+  "latitude": -8.116811063,
+  "longitude": -34.9546874
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bdd"
+  },
+  "ID": 290,
+  "Nome": "Parque Exposição do Cordeiro",
+  "Descricao": "Parque",
+  "Bairro": "Cordeiro",
+  "Endereco": "Avenida Mauricio De Nassau/ Rua Costa Maia/ Avenida Caxanga/ Rua Antero Mota",
+  "latitude": -8.044744487,
+  "longitude": -34.92535678
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bde"
+  },
+  "ID": 291,
+  "Nome": "Praça Flor de Cheiro",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Quirinópolis / Rua Currais Novos/ Rua Maua/ Rua Itaperuna/",
+  "latitude": -8.120125345,
+  "longitude": -34.95710594
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bdf"
+  },
+  "ID": 292,
+  "Nome": "Praça João Felipe Santiago",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Sapucaia / Avenida Santa Fe",
+  "latitude": -8.118819683,
+  "longitude": -34.95492513
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be0"
+  },
+  "ID": 293,
+  "Nome": "Praça Gonçalo Leitão",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Cientista Nelson Chaves / Rua Capitao Joao De Albuquerque / Rua Goncalo Leitao",
+  "latitude": -8.128727997,
+  "longitude": -34.94708775
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be1"
+  },
+  "ID": 294,
+  "Nome": "Praça da rua Itacambira",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Itanage/Rua Potengy/Rua Itacambira/Trv Itanage",
+  "latitude": -8.105712489,
+  "longitude": -34.91999826
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be2"
+  },
+  "ID": 295,
+  "Nome": "Praça da Rua Arquiteto Luiz Nunes",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Frederico Lundgren / Rua Olivia Menelau",
+  "latitude": -8.089276206,
+  "longitude": -34.91049532
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be3"
+  },
+  "ID": 296,
+  "Nome": "Praça da Avenida Engenheiro Abdias de Carvalho",
+  "Descricao": "Praça",
+  "Bairro": "Curado",
+  "Endereco": "Rua Dr Flavio Ferreira Da Silva Marojo/ Avenida Engenheiro Abdias De Carvalho",
+  "latitude": -8.067910349,
+  "longitude": -34.93832462
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be4"
+  },
+  "ID": 297,
+  "Nome": "Praça da Avenida Engenheiro Abdias de Carvalho",
+  "Descricao": "Praça",
+  "Bairro": "Torroes",
+  "Endereco": "Rua Dr Flavio Ferreira Da Silva Marojo/ Avenida Engenheiro Abdias De Carvalho",
+  "latitude": -8.065952236,
+  "longitude": -34.93789124
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be5"
+  },
+  "ID": 298,
+  "Nome": "Praça do Largo da ponte do Motocolombo",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Avenida Sul/Avenida Marechal Mascarenhas De Moraes",
+  "latitude": -8.082850417,
+  "longitude": -34.90642201
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be6"
+  },
+  "ID": 299,
+  "Nome": "Praça Rafael de Oliveira Alves",
+  "Descricao": "Praça",
+  "Bairro": "Jardim Sao Paulo",
+  "Endereco": "Rua Jundiai/ Alca Do Viaduto Da Ceasa",
+  "latitude": -8.075239891,
+  "longitude": -34.94558515
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be7"
+  },
+  "ID": 300,
+  "Nome": "Praça Truaca/Tempo de Crescer",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Mata Limpa / R Engenho Terra Vermelha / R Engenho Laje Bonita / R Engenho Pedra Lavrada",
+  "latitude": -8.111212827,
+  "longitude": -34.95146858
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be8"
+  },
+  "ID": 301,
+  "Nome": "Praça Tempo de Crescer",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Linda Flor/ Rua Engenho Duas Barras/ R Engenho Laje Bonita",
+  "latitude": -8.111087025,
+  "longitude": -34.95081999
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447be9"
+  },
+  "ID": 302,
+  "Nome": "Praça Luiz de Lacerda",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Avenida Luiz De Lacerda/Rua Veneza/Avenida Historiador Jordao Emerenciano",
+  "latitude": -8.036268228,
+  "longitude": -34.94338123
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bea"
+  },
+  "ID": 303,
+  "Nome": "Praça do Caixito",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Flora Rica /Rua Pedro Boulitreau/ Rua Farroupilha",
+  "latitude": -8.074056853,
+  "longitude": -34.93108626
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447beb"
+  },
+  "ID": 304,
+  "Nome": "Praça Boco-Moco/da UR 5",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Afonso Arinos/ R Arq Reinaldo Alves Maia/ R Des Thomaz C  Wanderley/ R Arq Maria Lucia Barbosa",
+  "latitude": -8.133478736,
+  "longitude": -34.95051865
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bec"
+  },
+  "ID": 305,
+  "Nome": "Praça Ministro Salgado Filho",
+  "Descricao": "Praça",
+  "Bairro": "Ibura",
+  "Endereco": "Avenida Marechal Mascarenhas De Moraes",
+  "latitude": -8.133597383,
+  "longitude": -34.91695028
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bed"
+  },
+  "ID": 306,
+  "Nome": "Praça da Rua Riacho Doce",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Riacho Doce / Rua Engenho Barra Azul / Rua Engenho Bela Vida",
+  "latitude": -8.112307346,
+  "longitude": -34.95126004
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bee"
+  },
+  "ID": 307,
+  "Nome": "Praça Monteiro Lobato",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Pedro Malazarte / Rua Marquês De Rabico / Rua Do Garnize",
+  "latitude": -8.131932272,
+  "longitude": -34.94735949
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bef"
+  },
+  "ID": 308,
+  "Nome": "Praça Robert Kennedy/da Juventude",
+  "Descricao": "Parque",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Frof Nelson Melo/R Estudante Sinval Meira Henrique/Avenida Sen Robert Kennedy/R Dr Ruy L  Cavalcanti",
+  "latitude": -8.116369686,
+  "longitude": -34.91858583
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf0"
+  },
+  "ID": 309,
+  "Nome": "Praça da rua João Guilherme",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Jose Pimentel/R Esperidiao Cordeiro De Morais/R Antonio Conselheiro/R Joao Guilherme",
+  "latitude": -8.115386499,
+  "longitude": -34.91944517
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf1"
+  },
+  "ID": 310,
+  "Nome": "Praça da rua Junqueira Freire",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Jose D'Emery Carneiro/Rua Albino Reine/R Antonio Conselheiro/Rua Junqueira Freire",
+  "latitude": -8.116225406,
+  "longitude": -34.92041192
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf2"
+  },
+  "ID": 311,
+  "Nome": "Praça da rua Leonardo da Vinci",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Leonardo Da Vinci/ Rua Goncalves De Magalhaes/  Rua Bernardino Da Costa",
+  "latitude": -8.117564241,
+  "longitude": -34.91620587
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf3"
+  },
+  "ID": 312,
+  "Nome": "Praça Encanta Moça/Posto Policial",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Rua Artur Licio",
+  "latitude": -8.093072428,
+  "longitude": -34.88864188
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf4"
+  },
+  "ID": 313,
+  "Nome": "Praça arquiteta Maria Lucia",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Esdras Farias/Rua Helio Brandao/Rua Americo De Campos/Rua Abdias Cabral De Moura",
+  "latitude": -8.103822755,
+  "longitude": -34.92671357
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf5"
+  },
+  "ID": 314,
+  "Nome": "Praca Mauriceia",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Araraquara/Rua Itaquice/Rua Jean Emile Favre/ Rua Aracatuba",
+  "latitude": -8.107793342,
+  "longitude": -34.91646488
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf6"
+  },
+  "ID": 315,
+  "Nome": "Praça do Jacaré",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Raul Leoni/ Rua Simoes Neto/ Rua Edward Jenner/ R Deputado Antonio Heraclio",
+  "latitude": -8.118242401,
+  "longitude": -34.91781849
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf7"
+  },
+  "ID": 316,
+  "Nome": "Praça Josen Demery Carneiro",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Jose D'Emery Carneiro/ R Inez De Castro/R Aristharcho Lopes/R Dr Samuel Hardman C De Albuquerque",
+  "latitude": -8.117063431,
+  "longitude": -34.92137852
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf8"
+  },
+  "ID": 317,
+  "Nome": "Praça Lins do Rego/dos Brotos",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Lins Do Rego/ Rua Lopes Trovao/ Rua Paulo De Prontin/ Rua Manuel De Macedo",
+  "latitude": -8.118709463,
+  "longitude": -34.91914364
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bf9"
+  },
+  "ID": 318,
+  "Nome": "Praça Circular do Alto Jordão",
+  "Descricao": "Praça",
+  "Bairro": "Jordao",
+  "Endereco": "Rua Toritama / Avenida Dona Carentina",
+  "latitude": -8.134237437,
+  "longitude": -34.94381569
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bfa"
+  },
+  "ID": 319,
+  "Nome": "Praça Mercado Municipal da UR-5",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Dr Otavio Moraes Vasconcelos / Rua Capitao Vicente Curado",
+  "latitude": -8.132432675,
+  "longitude": -34.94882182
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bfb"
+  },
+  "ID": 320,
+  "Nome": "Praça da rua Elza Leal Wanderley",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Eliza Leal Wanderley/Rua Deputado Celso Miranda/Rua Alaide Sa Leitao/ Avenida Presidente Dutra",
+  "latitude": -8.110108388,
+  "longitude": -34.92662342
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bfc"
+  },
+  "ID": 321,
+  "Nome": "Praça da rua Rosa M. de Melo",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Deputado Edson Moury Fernandes/R Rosa Magalhaes/Avenida Pres Dutra/R Maria Jose Mota Da Silveira",
+  "latitude": -8.108636596,
+  "longitude": -34.92682751
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bfd"
+  },
+  "ID": 322,
+  "Nome": "Praça do S",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Avenida Mato Grosso / Rua Rio Ica / Rua Rio Ivo",
+  "latitude": -8.122273432,
+  "longitude": -34.94705778
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bfe"
+  },
+  "ID": 323,
+  "Nome": "Praça Todos os Santos",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Todos Os Santos/ Rua Sepetiba/ Rua Piassabussu/Rua Ilheus",
+  "latitude": -8.121080341,
+  "longitude": -34.95345689
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447bff"
+  },
+  "ID": 324,
+  "Nome": "Praça da Rua Jatobá",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Arco Verde / Rua Sao Vicente Ferrer",
+  "latitude": -8.123667543,
+  "longitude": -34.94645226
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c00"
+  },
+  "ID": 325,
+  "Nome": "Praça Vitória do Povo",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Jordania",
+  "latitude": -8.118321894,
+  "longitude": -34.94616099
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c01"
+  },
+  "ID": 326,
+  "Nome": "Praça Geraldo Vilas Boas",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Padre Manuel Ribeiro Da Rocha / R Barbara Heliodora / R Jose Do Patrocinio / R Cupertino Cintra",
+  "latitude": -8.131276898,
+  "longitude": -34.94911435
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c02"
+  },
+  "ID": 327,
+  "Nome": "Praça Dalva de Oliveira",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Guaranta / Rua Tocantinopolis / Rua Neopolis / Rua Sao Bento Do Una",
+  "latitude": -8.116224924,
+  "longitude": -34.94646448
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c03"
+  },
+  "ID": 328,
+  "Nome": "Praça da rua Quintino Bocaiuva",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Barao De Jaqui/Rua Comandante Garcia D'Avilla/R Quintino Bocaiuva/R Orestes Barbosa",
+  "latitude": -8.115533124,
+  "longitude": -34.91762026
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c04"
+  },
+  "ID": 329,
+  "Nome": "Praça da Rua Clotilde de Machado I e II",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Pintor Antonio Albuquerque/Rua Clotilde Machado/Rua Itacambira",
+  "latitude": -8.107275838,
+  "longitude": -34.92177898
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c05"
+  },
+  "ID": 330,
+  "Nome": "Praça da Rua Clotilde de Machado I e II",
+  "Descricao": "Praça",
+  "Bairro": "Ipsep",
+  "Endereco": "Rua Itacambira/Rua Clotilde Machado/Rua Irapua",
+  "latitude": -8.107671976,
+  "longitude": -34.92143116
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c06"
+  },
+  "ID": 331,
+  "Nome": "Praça professor Jeronimo Gueiros",
+  "Descricao": "Praça",
+  "Bairro": "Jordao",
+  "Endereco": "Rua Joraci Camargo / Rua Pianco / Rua Santa Agda / Rua Tamara",
+  "latitude": -8.13499924,
+  "longitude": -34.9400395
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c07"
+  },
+  "ID": 332,
+  "Nome": "Praça da rua José Rodrigues",
+  "Descricao": "Praça",
+  "Bairro": "Pina",
+  "Endereco": "Rua Jose Rodrigues",
+  "latitude": -8.090992837,
+  "longitude": -34.89257984
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c08"
+  },
+  "ID": 333,
+  "Nome": "Praça da rua Guarabira",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Antonio Paes Barreto/ Rua Jose Da Silva Lucena / Rua Guarabira / Rua Sargento Silvino De Macedo",
+  "latitude": -8.114097516,
+  "longitude": -34.9074951
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c09"
+  },
+  "ID": 334,
+  "Nome": "Praça Campo de pelada Carlos Rios",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "/ Rua Moacir Albuquerque",
+  "latitude": -8.085727266,
+  "longitude": -34.91051676
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c0a"
+  },
+  "ID": 335,
+  "Nome": "Praça do Terminal de ônibus da UR-2",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Monica Raposo/ Avenida Santos",
+  "latitude": -8.114574472,
+  "longitude": -34.95533183
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c0b"
+  },
+  "ID": 336,
+  "Nome": "Praça da Avenida Senador Robert Kennedy",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Avenida Senador Robert Kennedy/Rua Condessa De Barral/ Rua Joao Ramalho/R Jose Fernandes Portugal",
+  "latitude": -8.117619511,
+  "longitude": -34.91837467
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c0c"
+  },
+  "ID": 337,
+  "Nome": "Praça da CHESF",
+  "Descricao": "Praça",
+  "Bairro": "Torroes",
+  "Endereco": "Avenida Engenheiro Abdias De Carvalho/ Rua Delmiro Gouveia Rua Quinze De Marco",
+  "latitude": -8.062636847,
+  "longitude": -34.93095874
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c0d"
+  },
+  "ID": 338,
+  "Nome": "Praça do Bueirão",
+  "Descricao": "Praça",
+  "Bairro": "Torre",
+  "Endereco": "Rua Barreto Campelo/ Rua Zilda S De Santana",
+  "latitude": -8.046109959,
+  "longitude": -34.91386863
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c0e"
+  },
+  "ID": 339,
+  "Nome": "Praça Jacarezinho",
+  "Descricao": "Praça",
+  "Bairro": "Campina Do Barreto",
+  "Endereco": "Rua Iguatu/Travessa Garibaldi",
+  "latitude": -8.018500505,
+  "longitude": -34.88289503
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c0f"
+  },
+  "ID": 340,
+  "Nome": "Praça Chão de Estrelas",
+  "Descricao": "Praça",
+  "Bairro": "Campina Do Barreto",
+  "Endereco": "Rua Doutor Elias Gomes",
+  "latitude": -8.020573233,
+  "longitude": -34.87994024
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c10"
+  },
+  "ID": 341,
+  "Nome": "Praça Novaes Filho",
+  "Descricao": "Praça",
+  "Bairro": "Campina Do Barreto",
+  "Endereco": "Rua Iguatu/ Rua Constanca/ R Coronel Mario  Liborio",
+  "latitude": -8.016610587,
+  "longitude": -34.8819309
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c11"
+  },
+  "ID": 342,
+  "Nome": "Praça do IML",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Babilonia / Rua Engenho Titara / Rua Engenho Mameluco",
+  "latitude": -8.11286166,
+  "longitude": -34.94932137
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c12"
+  },
+  "ID": 343,
+  "Nome": "Praça Getulio Vargas",
+  "Descricao": "Praça",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Raul Morais/Avenida General San Martin/ Rua Tomaz Gonzaga",
+  "latitude": -8.054004913,
+  "longitude": -34.92272441
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c13"
+  },
+  "ID": 344,
+  "Nome": "Praça Santa Lucia",
+  "Descricao": "Praça",
+  "Bairro": "Iputinga",
+  "Endereco": "Avenida Mauricio De Nassau/ R Santa Lucia/ Trv Santa Lucia",
+  "latitude": -8.039151075,
+  "longitude": -34.93011995
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c14"
+  },
+  "ID": 345,
+  "Nome": "Praça Chico Scince",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Retiro",
+  "Endereco": "Avenida Abdias De Carvalho",
+  "latitude": -8.061929077,
+  "longitude": -34.90169642
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c15"
+  },
+  "ID": 346,
+  "Nome": "Praça Doutor Jose de Melo",
+  "Descricao": "Praça",
+  "Bairro": "Parnamirim",
+  "Endereco": "Rua Padre Roma/ Rua Sebastiao Malta Arco Verde/Rua Afonso Celso",
+  "latitude": -8.032712668,
+  "longitude": -34.90740837
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c16"
+  },
+  "ID": 347,
+  "Nome": "Praça Doutor Jose de Melo",
+  "Descricao": "Praça",
+  "Bairro": "Tamarineira",
+  "Endereco": "Rua Sebastiao Alves/ Rua Afonso Celso",
+  "latitude": -8.032659255,
+  "longitude": -34.90713144
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c17"
+  },
+  "ID": 348,
+  "Nome": "Praça Alto da Serrinha",
+  "Descricao": "Praça",
+  "Bairro": "Alto Santa Terezinha",
+  "Endereco": "Rua Alto Da Serrinha/Rua Alto Do Tiro",
+  "latitude": -8.012648303,
+  "longitude": -34.90931455
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c18"
+  },
+  "ID": 349,
+  "Nome": "Praça Alto da Serrinha",
+  "Descricao": "Praça",
+  "Bairro": "Alto Santa Terezinha",
+  "Endereco": "Rua Alto Da Serrinha/Rua Alto Brasil",
+  "latitude": -8.012563637,
+  "longitude": -34.90911644
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c19"
+  },
+  "ID": 350,
+  "Nome": "Praça Arão Botler",
+  "Descricao": "Praça",
+  "Bairro": "Porto Da Madeira",
+  "Endereco": "Avenida Cidade De Monteiro/Rua Arao Botler",
+  "latitude": -8.008670426,
+  "longitude": -34.88814566
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c1a"
+  },
+  "ID": 351,
+  "Nome": "Praça Treze de Junho",
+  "Descricao": "Praça",
+  "Bairro": "Rosarinho",
+  "Endereco": "Avenida Prof Jose Dos Anjoa/ Rua Santos Dumont/R Treze De Junho",
+  "latitude": -8.028282743,
+  "longitude": -34.894669
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c1b"
+  },
+  "ID": 352,
+  "Nome": "Praça Treze de Junho",
+  "Descricao": "Praça",
+  "Bairro": "Rosarinho",
+  "Endereco": "Avenida Santoa Dumont/Rua Treze De Junho/Avenida Prof Jose Dos Anjos",
+  "latitude": -8.028376755,
+  "longitude": -34.89501515
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c1c"
+  },
+  "ID": 353,
+  "Nome": "Praça das Flores",
+  "Descricao": "Praça",
+  "Bairro": "Encruzilhada",
+  "Endereco": "Rua Euclides Fonseca/Rua Dr Jose Higino Ribeiro Campos/R Prof Joao Rodrigues",
+  "latitude": -8.033250341,
+  "longitude": -34.89383251
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c1d"
+  },
+  "ID": 354,
+  "Nome": "Praça Encanamento",
+  "Descricao": "Praça",
+  "Bairro": "Casa Amarela",
+  "Endereco": "Estrada Do Encanamento",
+  "latitude": -8.031791658,
+  "longitude": -34.91409823
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c1e"
+  },
+  "ID": 355,
+  "Nome": "Praça Bambu",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Nova Cruz / Rua Diamantina",
+  "latitude": -8.121702686,
+  "longitude": -34.9544336
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c1f"
+  },
+  "ID": 356,
+  "Nome": "Praça da Biblia",
+  "Descricao": "Praça",
+  "Bairro": "Guabiraba",
+  "Endereco": "Estrada Da Mumbeca/ Travessa Da Estrada Da Mumbeca",
+  "latitude": -7.964861101,
+  "longitude": -34.92333092
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c20"
+  },
+  "ID": 357,
+  "Nome": "Praça Souto Filho",
+  "Descricao": "Praça",
+  "Bairro": "Jaqueira",
+  "Endereco": "Rua Hoel Sette/Avenida Conselheiro Rosa E Silva/ Rua Do Futuro",
+  "latitude": -8.036102966,
+  "longitude": -34.90287433
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c21"
+  },
+  "ID": 358,
+  "Nome": "Praça Professor Calazans",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Galvao Raposo/Rua Jose Higino/ Rua Menezes Drumond/R Ernani Braga",
+  "latitude": -8.050560695,
+  "longitude": -34.91019588
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c22"
+  },
+  "ID": 359,
+  "Nome": "Praça Odília Freire dos Santos",
+  "Descricao": "Praça",
+  "Bairro": "Boa Vista",
+  "Endereco": "Avenida Montevideu/Avenida Governador Agamenon Magalhaes",
+  "latitude": -8.04948682,
+  "longitude": -34.89307306
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c23"
+  },
+  "ID": 360,
+  "Nome": "Praça Aúreo Xavier",
+  "Descricao": "Praça",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Aureo Xavier/Rua Francisco Vita / R Dom Jose Pereira Alves",
+  "latitude": -8.050663593,
+  "longitude": -34.92580564
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c24"
+  },
+  "ID": 361,
+  "Nome": "Praça Aúreo Xavier",
+  "Descricao": "Praça",
+  "Bairro": "Cordeiro",
+  "Endereco": "Rua Aureo Xavier/ R Dom Jose Pereira Alves/Estrada Do Forte Do Arraial Novo Do Bom Jesus",
+  "latitude": -8.050232683,
+  "longitude": -34.92658325
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c25"
+  },
+  "ID": 362,
+  "Nome": "Praça Cosme Viana",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Padre Teofilo Tworz/ Rua Cosme Viana",
+  "latitude": -8.065654813,
+  "longitude": -34.90883536
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c26"
+  },
+  "ID": 363,
+  "Nome": "Praça Industrial Miguel Santos",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Rua Pedro Americo Galvao/Rua Baltazar Pereira",
+  "latitude": -8.101388665,
+  "longitude": -34.88607995
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c27"
+  },
+  "ID": 364,
+  "Nome": "Praca Esmeralda",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Buranhem / Rua Engenho Cabucu / Rua Engenho Matapagipe",
+  "latitude": -8.114716636,
+  "longitude": -34.94712554
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c28"
+  },
+  "ID": 365,
+  "Nome": "Praça Jockey Clube",
+  "Descricao": "Praça",
+  "Bairro": "Prado",
+  "Endereco": "Dentro Do Joquei Club",
+  "latitude": -8.061409382,
+  "longitude": -34.91336654
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c29"
+  },
+  "ID": 366,
+  "Nome": "Praça São Francisco/Amante das Flores",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Avenida Rio Sao Francisco / Rua Jaguaruna / Rua Caraubas",
+  "latitude": -8.115585041,
+  "longitude": -34.94599427
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c2a"
+  },
+  "ID": 367,
+  "Nome": "Praça Conselheiro João Alfredo",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Real Da Torre/ Rua Benfica",
+  "latitude": -8.057328865,
+  "longitude": -34.908882
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c2b"
+  },
+  "ID": 368,
+  "Nome": "Praça Conselheiro João Alfredo",
+  "Descricao": "Praça",
+  "Bairro": "Madalena",
+  "Endereco": "Rua Benfica/Avenida Caxanga",
+  "latitude": -8.056885206,
+  "longitude": -34.90932343
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c2c"
+  },
+  "ID": 369,
+  "Nome": "Praça do Anfiteatro",
+  "Descricao": "Praça",
+  "Bairro": "Nova Descoberta",
+  "Endereco": "Rua Alto Do Reservatorio",
+  "latitude": -8.001463173,
+  "longitude": -34.935715
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c2d"
+  },
+  "ID": 370,
+  "Nome": "Praça Chayenne",
+  "Descricao": "Praça",
+  "Bairro": "Porto Da Madeira",
+  "Endereco": "Avenida Beberibe/Rua Judith/ R Do Anil",
+  "latitude": -8.006060549,
+  "longitude": -34.8922996
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c2e"
+  },
+  "ID": 371,
+  "Nome": "Praça Castro Alves",
+  "Descricao": "Praça",
+  "Bairro": "Encruzilhada",
+  "Endereco": "Avenida Norte Miguel Arraes De Alencar/R Natividade Saldanha/Rua Marechal Deodoro",
+  "latitude": -8.04000747,
+  "longitude": -34.88705319
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c2f"
+  },
+  "ID": 372,
+  "Nome": "Praça Bomba do Hemetério",
+  "Descricao": "Praça",
+  "Bairro": "Bomba Do Hemeterio",
+  "Endereco": "Rua Bomba Do Hemeterio/ Rua Cha De Alegria",
+  "latitude": -8.020226629,
+  "longitude": -34.90323444
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c30"
+  },
+  "ID": 373,
+  "Nome": "Praça Alfredo Ozório",
+  "Descricao": "Praça",
+  "Bairro": "Tamarineira",
+  "Endereco": "Rua Alfredo Ozório / Rua São Vicente",
+  "latitude": -8.029367443,
+  "longitude": -34.90649245
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c31"
+  },
+  "ID": 374,
+  "Nome": "Praça Ayrton Senna",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Engenho Bom Destino / R Engenho Agua Branca  / R Engenho Serra Grande / R Engenho Tres Marias",
+  "latitude": -8.113411477,
+  "longitude": -34.951048
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c32"
+  },
+  "ID": 375,
+  "Nome": "Praça Virgilio de Oliveira",
+  "Descricao": "Praça",
+  "Bairro": "Poco",
+  "Endereco": "Rua Virgilio Oliveira/ Rua Monsenhor Lobo /Rua Tito Livio Soares",
+  "latitude": -8.037376007,
+  "longitude": -34.92241367
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c33"
+  },
+  "ID": 376,
+  "Nome": "Praça 3º Jardim de Boa Viagem",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Avenida Boa Viagem",
+  "latitude": -8.10823516,
+  "longitude": -34.88845837
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c34"
+  },
+  "ID": 377,
+  "Nome": "Praça Sargento Max Wolf Filho",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Florentino Olimpio Dos Santos/Rua Sargento  Wolff",
+  "latitude": -8.071654519,
+  "longitude": -34.9114084
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c35"
+  },
+  "ID": 378,
+  "Nome": "Praça Largo Dona Regina",
+  "Descricao": "Praça",
+  "Bairro": "Nova Descoberta",
+  "Endereco": "Rua Bujaru/ Rua Nova Descoberta",
+  "latitude": -8.018561394,
+  "longitude": -34.92618305
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c36"
+  },
+  "ID": 379,
+  "Nome": "Praça Heiji Gemba",
+  "Descricao": "Praça",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Rua Heiji Gemba",
+  "latitude": -8.132921301,
+  "longitude": -34.90436301
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c37"
+  },
+  "ID": 380,
+  "Nome": "Praça Doutor Alberto Wanderley",
+  "Descricao": "Praça",
+  "Bairro": "Porto Da Madeira",
+  "Endereco": "Avenida Cidade De Monteiro/Rua Dr Alberto Wanderley",
+  "latitude": -8.009162474,
+  "longitude": -34.88836702
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c38"
+  },
+  "ID": 381,
+  "Nome": "Praça Gustavo Barrozo",
+  "Descricao": "Praça",
+  "Bairro": "Linha Do Tiro",
+  "Endereco": "Travessa Alto Da Serrinha/R Gustavo Barrozo",
+  "latitude": -8.012405066,
+  "longitude": -34.91221086
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c39"
+  },
+  "ID": 382,
+  "Nome": "Praça São Pedro",
+  "Descricao": "Praça",
+  "Bairro": "Brasilia Teimosa",
+  "Endereco": "Rua Brazopolis/ Avenida Brasilia Formosa",
+  "latitude": -8.088754849,
+  "longitude": -34.88035131
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c3a"
+  },
+  "ID": 383,
+  "Nome": "Praça Poço da Panela",
+  "Descricao": "Praça",
+  "Bairro": "Poco",
+  "Endereco": "Estrada Real Do Poco",
+  "latitude": -8.037073095,
+  "longitude": -34.92546349
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c3b"
+  },
+  "ID": 384,
+  "Nome": "Praça Saturnino de Brito",
+  "Descricao": "Praça",
+  "Bairro": "Cabanga",
+  "Endereco": "Avenida Sartunino De Brito/Rua Bituri",
+  "latitude": -8.079493912,
+  "longitude": -34.89299581
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c3c"
+  },
+  "ID": 385,
+  "Nome": "Praça de Casa Forte",
+  "Descricao": "Praça",
+  "Bairro": "Casa Forte",
+  "Endereco": "Rua Da Praca De Casa Forte",
+  "latitude": -8.034613064,
+  "longitude": -34.9193523
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c3d"
+  },
+  "ID": 386,
+  "Nome": "Praça Sérgio Loreto",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Avenida Sul/Avenida Dantas Barreto/Rua Imperial/ Rua Da Concordia",
+  "latitude": -8.07266317,
+  "longitude": -34.88476982
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c3e"
+  },
+  "ID": 387,
+  "Nome": "Praça Canavial",
+  "Descricao": "Praça",
+  "Bairro": "Dois Unidos",
+  "Endereco": "Rua Canavial/Rua Dr Luiz Ramos Leal",
+  "latitude": -8.000901107,
+  "longitude": -34.90160325
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c3f"
+  },
+  "ID": 388,
+  "Nome": "Praça Luiz de Lacerda",
+  "Descricao": "Area Verde",
+  "Bairro": "Iputinga",
+  "Endereco": "Avenida Historiador Jordao Emerenciano/ Rua Quipapa/ Rua Veneza",
+  "latitude": -8.035896445,
+  "longitude": -34.94310322
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c40"
+  },
+  "ID": 389,
+  "Nome": "Praça Alberico Glasner da Rocha",
+  "Descricao": "Praça",
+  "Bairro": "Caxanga",
+  "Endereco": "Rua Alberico Glasner Da Rocha/Rua Prof Barros Lima/ Rua Dirceu Pessoa",
+  "latitude": -8.023210481,
+  "longitude": -34.95766712
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c41"
+  },
+  "ID": 390,
+  "Nome": "Praça Francisco Apolônio Jorge Sales",
+  "Descricao": "Praça",
+  "Bairro": "Soledade",
+  "Endereco": "Rua Da Soledade/Rua Joao Fernandes Vieira",
+  "latitude": -8.056381656,
+  "longitude": -34.89004205
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c42"
+  },
+  "ID": 391,
+  "Nome": "Praça da Rua Joaquim de Brito",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Leite",
+  "Endereco": "Da Rua Joaquim De Brito/Rua Esperanto/Rua Jornalista Trajano Chacon/ Rua General Joaquim Inacio",
+  "latitude": -8.063147243,
+  "longitude": -34.89352903
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c43"
+  },
+  "ID": 392,
+  "Nome": "Praça Doutor Pedro Cavalcanti",
+  "Descricao": "Praça",
+  "Bairro": "Tamarineira",
+  "Endereco": "Rua Dr. Jose Maria/Rua Neto De Mendonça/Rua General Abreu E Lima/",
+  "latitude": -8.03517934,
+  "longitude": -34.90017692
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c44"
+  },
+  "ID": 393,
+  "Nome": "Praça João Pereira Borges",
+  "Descricao": "Praça",
+  "Bairro": "Derby",
+  "Endereco": "Rua Manoel Caetano/ R Dr Osvaldo Lima/ R Guilherme Pinto/ R Clemente Pereira",
+  "latitude": -8.054339208,
+  "longitude": -34.90179053
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c45"
+  },
+  "ID": 394,
+  "Nome": "Praça da Criança Alexandra Vilma Dias",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Doutor Benígno Jordão De Vasconcelos / Rua José Luiz De Oliveira Barros Sobrinho",
+  "latitude": -8.119642827,
+  "longitude": -34.95056318
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c46"
+  },
+  "ID": 395,
+  "Nome": "Praça Doutor Pádua Walfrido",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Rio Solimões/Rua Santa Joana D'Arc",
+  "latitude": -8.097461844,
+  "longitude": -34.93703052
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c47"
+  },
+  "ID": 396,
+  "Nome": "Praça Franco Gomes Coutinho",
+  "Descricao": "Praça",
+  "Bairro": "Mangueira",
+  "Endereco": "Rua Dr Joao Elisio/ Avenida Central",
+  "latitude": -8.078626485,
+  "longitude": -34.91971566
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c48"
+  },
+  "ID": 397,
+  "Nome": "Praça da Juventude",
+  "Descricao": "Praça",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Palmeirina / Rua Perdizes / Rua Panorama / Rua Sao Bento Do Una",
+  "latitude": -8.117294235,
+  "longitude": -34.94616336
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c49"
+  },
+  "ID": 398,
+  "Nome": "Praça Vereador Carlos Duarte",
+  "Descricao": "Praça",
+  "Bairro": "Santo Amaro",
+  "Endereco": "Rua Capitão Lima/ Rua Do Veiga",
+  "latitude": -8.052914011,
+  "longitude": -34.87953664
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c4a"
+  },
+  "ID": 399,
+  "Nome": "Praça El Salvador",
+  "Descricao": "Praça",
+  "Bairro": "Jardim Sao Paulo",
+  "Endereco": "Rua Dr Devaldo Borges/Rua Aguanil/Avenida Sao Paulo",
+  "latitude": -8.080472999,
+  "longitude": -34.94025329
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c4b"
+  },
+  "ID": 400,
+  "Nome": "Praça Queira Deus",
+  "Descricao": "Praça",
+  "Bairro": "Tejipio",
+  "Endereco": "Rua Falcão De Lacerda/ Rua Queira Deus",
+  "latitude": -8.092483772,
+  "longitude": -34.96183406
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c4c"
+  },
+  "ID": 401,
+  "Nome": "Praça Quinze de Setembro",
+  "Descricao": "Praça",
+  "Bairro": "Imbiribeira",
+  "Endereco": "Rua Felipe De Oliveira/R Bernardino Da Costa/ R Louis Pasteur/ Rua Pedro Lessa",
+  "latitude": -8.117062053,
+  "longitude": -34.91715269
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c4d"
+  },
+  "ID": 402,
+  "Nome": "Praça Ana Lima Brandão",
+  "Descricao": "Praça",
+  "Bairro": "Barro",
+  "Endereco": "Rua Padre Alberione /R Jose Benedito Moury Fernandes/R Alheiros Maia/R Exp Sebastiao Clementino",
+  "latitude": -8.09549176,
+  "longitude": -34.94386536
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c4e"
+  },
+  "ID": 403,
+  "Nome": "Praça Compositor Antônio Maria",
+  "Descricao": "Praça",
+  "Bairro": "Santana",
+  "Endereco": "Rua Samuel Farias / Rua Nestor Silva / Rua Afonso De Albuquerque Melo",
+  "latitude": -8.040307848,
+  "longitude": -34.91378683
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c4f"
+  },
+  "ID": 404,
+  "Nome": "Parque Jonathan Marques da Cunha",
+  "Descricao": "Parque",
+  "Bairro": "Cordeiro",
+  "Endereco": "Avenida Mauricio De Nassau / Rua Estevao Francisco Da Costa",
+  "latitude": -8.041767548,
+  "longitude": -34.92317634
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c50"
+  },
+  "ID": 405,
+  "Nome": "Parque Jonathan Marques da Cunha",
+  "Descricao": "Parque",
+  "Bairro": "Iputinga",
+  "Endereco": "Avenida Mauricio De Nassau",
+  "latitude": -8.03841897,
+  "longitude": -34.92763868
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c51"
+  },
+  "ID": 406,
+  "Nome": "Parque Jonathan Marques da Cunha",
+  "Descricao": "Parque",
+  "Bairro": "Cordeiro",
+  "Endereco": "Avenida Mauricio De Nassau",
+  "latitude": -8.040234263,
+  "longitude": -34.92601552
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c52"
+  },
+  "ID": 407,
+  "Nome": "Praça Dr Fernando Figueira",
+  "Descricao": "Praça",
+  "Bairro": "Ilha Do Leite",
+  "Endereco": "Rua Marques Amorim / Rua Jose De Alencar/ Rua Estado De Israel",
+  "latitude": -8.065514974,
+  "longitude": -34.89326168
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c53"
+  },
+  "ID": 408,
+  "Nome": "Parque de Apipucos",
+  "Descricao": "Parque",
+  "Bairro": "Monteiro",
+  "Endereco": "Rua Apipucos",
+  "latitude": -8.021990604,
+  "longitude": -34.93320107
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c54"
+  },
+  "ID": 409,
+  "Nome": "Praça Maurício de Nassau e Duarte Coelho",
+  "Descricao": "Praça",
+  "Bairro": "Sao Jose",
+  "Endereco": "Cais De Santa Rita",
+  "latitude": -8.071509944,
+  "longitude": -34.87621436
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c55"
+  },
+  "ID": 410,
+  "Nome": "Parque da Tamarineira",
+  "Descricao": "Parque",
+  "Bairro": "Tamarineira",
+  "Endereco": "Avenida Conselheiro Rosa E Silva / Rua Cônego Barata",
+  "latitude": -8.032919802,
+  "longitude": -34.90181629
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c56"
+  },
+  "ID": 411,
+  "Nome": "Praça João Francisco Lisboa",
+  "Descricao": "Praça",
+  "Bairro": "Varzea",
+  "Endereco": "Rua  Joao Francisco Lisboa / Rua  Inacio De Barros Barreto",
+  "latitude": -8.053074889,
+  "longitude": -34.95955794
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c57"
+  },
+  "ID": 412,
+  "Nome": "Praça do Terminal",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Dr Gil Francisco Da Rocha/Rua Capitão Amaro Cerqueira/ Rua Sargento Afonso Rodrigues",
+  "latitude": -8.094489339,
+  "longitude": -34.92404121
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c58"
+  },
+  "ID": 413,
+  "Nome": "Praça Izabel de Goes",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Izabel De Goes/ Rua Antonio Vidal/ Avenida Recife",
+  "latitude": -8.090526773,
+  "longitude": -34.92996294
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c59"
+  },
+  "ID": 414,
+  "Nome": "Praça Zeppelin",
+  "Descricao": "Praça",
+  "Bairro": "Jiquia",
+  "Endereco": "Rua Lázaro Fontes/ Trv Lázaro Fontes/Avenida Dr. José Rufino",
+  "latitude": -8.083288224,
+  "longitude": -34.92522742
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c5a"
+  },
+  "ID": 415,
+  "Nome": "Praça do Tourão",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Avenida Tapajós/Rua Ernesto Nazareth",
+  "latitude": -8.092859902,
+  "longitude": -34.92536535
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c5b"
+  },
+  "ID": 416,
+  "Nome": "Praça Infantil John F. Kennedy",
+  "Descricao": "Parque",
+  "Bairro": "Curado",
+  "Endereco": "Rua Itamonte/Rua Andira",
+  "latitude": -8.081735785,
+  "longitude": -34.95581679
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c5c"
+  },
+  "ID": 417,
+  "Nome": "Praça Professor Paulo Silveira do Nascimento",
+  "Descricao": "Praça",
+  "Bairro": "Afogados",
+  "Endereco": "Rua Daniel Antônio Rodrigues",
+  "latitude": -8.083186297,
+  "longitude": -34.92185723
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c5d"
+  },
+  "ID": 418,
+  "Nome": "Praça João Stanislau",
+  "Descricao": "Praça",
+  "Bairro": "Areias",
+  "Endereco": "Rua Rio Solimões/Rua Novo Horizonte/Rua Helio Almeida",
+  "latitude": -8.097661118,
+  "longitude": -34.93837157
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c5e"
+  },
+  "ID": 419,
+  "Nome": "Praça Queira Deus",
+  "Descricao": "Praça",
+  "Bairro": "Tejipio",
+  "Endereco": "Rua Queira Deus",
+  "latitude": -8.092678047,
+  "longitude": -34.96173746
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c5f"
+  },
+  "ID": 420,
+  "Nome": "Praça Dom Helder",
+  "Descricao": "Praça",
+  "Bairro": "Curado",
+  "Endereco": "Rua Quatro De Setembro/Rua Curua/Rua Padre José",
+  "latitude": -8.081500114,
+  "longitude": -34.95375576
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c60"
+  },
+  "ID": 421,
+  "Nome": "Praça Padre Romano Zuferey",
+  "Descricao": "Praça",
+  "Bairro": "Jardim Sao Paulo",
+  "Endereco": "Rua Maria Do Carmo Catunda/Rua Dr Devaldo Borges",
+  "latitude": -8.078357109,
+  "longitude": -34.93973457
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c61"
+  },
+  "ID": 422,
+  "Nome": "Praça Maria Madalena Bispo",
+  "Descricao": "Praça",
+  "Bairro": "Curado",
+  "Endereco": "Estrada Do Curado/1Tr Sidrolandia",
+  "latitude": -8.079585171,
+  "longitude": -34.9521782
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c62"
+  },
+  "ID": 423,
+  "Nome": "Praça Zeppelin",
+  "Descricao": "Praça",
+  "Bairro": "San Martin",
+  "Endereco": "Rua Des Lopes Gama/  Rua Bonifácio De Andrade",
+  "latitude": -8.07290586,
+  "longitude": -34.92792277
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c63"
+  },
+  "ID": 424,
+  "Nome": "Praça Zumbi dos Palmares",
+  "Descricao": "Praca",
+  "Bairro": "Macaxeira",
+  "Endereco": "Avenida Jose Americo De Almeida",
+  "latitude": -8.01054197,
+  "longitude": -34.9308843
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c64"
+  },
+  "ID": 425,
+  "Nome": "Praça do Jordão",
+  "Descricao": "Praça",
+  "Bairro": "Jordao",
+  "Endereco": "Rua Jose Martorano / Rua Dr Andrade Lyra / Rua Dr Alvaro Ferraz /Rua Lima Campos",
+  "latitude": -8.130438342,
+  "longitude": -34.93801131
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c65"
+  },
+  "ID": 426,
+  "Nome": "Parque de Santana",
+  "Descricao": "Parque",
+  "Bairro": "Santana",
+  "Endereco": "Rua Jorge Gomes De Sá / Rua Dr Abel Ventura",
+  "latitude": -8.042019233,
+  "longitude": -34.91782559
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c66"
+  },
+  "ID": 427,
+  "Nome": "Rua Maria Adelaide Castelo Branco",
+  "Descricao": "Praca",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Maria  Adelaide Castelo Brancorua Joao Cordeiro De Souza",
+  "latitude": -8.124246154,
+  "longitude": -34.95112973
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c67"
+  },
+  "ID": 428,
+  "Nome": "Praça da Rua José Augusto de Barros",
+  "Descricao": "Praca",
+  "Bairro": "Jiquia",
+  "Endereco": "Rua Dr Rinaldo Victor Fernandes/ Rua Jose Augusto De Barros",
+  "latitude": -8.086837182,
+  "longitude": -34.92314045
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c68"
+  },
+  "ID": 429,
+  "Nome": "Praça da Rua Pinheiro Machado",
+  "Descricao": "Praca",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Pinheiro Machado/ Rua Professor Pacifico Pereira",
+  "latitude": -8.134214402,
+  "longitude": -34.95134622
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c69"
+  },
+  "ID": 430,
+  "Nome": "Praça da Rua Professor Avertano Rocha",
+  "Descricao": "Praca",
+  "Bairro": "Torroes",
+  "Endereco": "Rua Professor Avertano Rocha/ Rua Des Capistrano De M E Silva",
+  "latitude": -8.066851556,
+  "longitude": -34.93340057
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c6a"
+  },
+  "ID": 431,
+  "Nome": "PRC   RUA AUGUSTO BAMBERG DE MELO",
+  "Descricao": "Praca",
+  "Bairro": "Tejipio",
+  "Endereco": "Rua Augusto Bamberg De Melo",
+  "latitude": -8.089731349,
+  "longitude": -34.94989529
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c6b"
+  },
+  "ID": 432,
+  "Nome": "Praça da Rua Príncipe da Beira",
+  "Descricao": "Praca",
+  "Bairro": "Jiquia",
+  "Endereco": "Rua Principe Da Beira",
+  "latitude": -8.090665807,
+  "longitude": -34.92269581
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c6c"
+  },
+  "ID": 433,
+  "Nome": "Praça da Rua Tristão da Cunha",
+  "Descricao": "Praca",
+  "Bairro": "Cohab",
+  "Endereco": "Rua Tristao Da Cunha/Rua Visconde De Santo Albino",
+  "latitude": -8.134950419,
+  "longitude": -34.95371043
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c6d"
+  },
+  "ID": 434,
+  "Nome": "Museu do Homem do Nordeste",
+  "Descricao": "são cerca de 15 mil peças no acervo retratando a formação do povo nordestino considerado um dos mais importantes museus antropológicos brasileiros. ",
+  "Bairro": "Casa Forte",
+  "Endereco": "Av. Dezessete de Agosto 2187",
+  "latitude": -8.030196,
+  "longitude": -34.925281
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c6e"
+  },
+  "ID": 435,
+  "Nome": "Museu Murilo La Greca",
+  "Descricao": "no Parnamirim os amantes da arte contemporânea conhecerão o acervo de 14 mil desenhos de Murilo La Greca em técnicas diversas. No local também são guardadas 160 pinturas e cartas trocadas pelo artista com Portinari e Giacometti.",
+  "Bairro": "Parnamirim",
+  "Endereco": "R. Leonardo Bezerra Cavalcante 366",
+  "latitude": -8.037325,
+  "longitude": -34.909832
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c6f"
+  },
+  "ID": 436,
+  "Nome": "Museu da Cidade do Recife",
+  "Descricao": "fica dentro do Forte das Cinco Pontas construção holandesa de 1630. No local o visitante pode desfrutar de um extenso acervo de documentos iconográficos sobre o Recife além de 150 mil imagens de antigas residências e peças religiosas.",
+  "Bairro": "São José",
+  "Endereco": "Praça das cinco pontas",
+  "latitude": -8.071313,
+  "longitude": -34.880809
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c70"
+  },
+  "ID": 437,
+  "Nome": "Museu Militar",
+  "Descricao": "está no Forte do Brum no Bairro do Recife. O forte foi construído no século XVI para segurança e proteção da povoação do Recife além de ter sido cenário de inúmeros acontecimentos históricos. ",
+  "Bairro": "Recife",
+  "Endereco": "Av. Militar s/n",
+  "latitude": -8.052803,
+  "longitude": -34.871412
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c71"
+  },
+  "ID": 438,
+  "Nome": "Museu de Arte Moderna Aloísio Magalhães (Mamam)",
+  "Descricao": "integra o circuito de museus de arte moderna do Brasil e tem seu forte nas exposições temporárias.",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua da Aurora 265",
+  "latitude": -8.061285,
+  "longitude": -34.881394
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c72"
+  },
+  "ID": 439,
+  "Nome": "Museu Franciscano de Arte Sacra",
+  "Descricao": "no bairro de Santo Antônio os visitantes podem observar valiosas peças do catolicismo no Recife e desfrutar da beleza da Capela Dourada datada de 1696 um dos melhores exemplos da arte sacra e do estilo barroco brasileiro. ",
+  "Bairro": " Santo Antônio",
+  "Endereco": "R. Imperador Dom Pedro II 57",
+  "latitude": -8.062427,
+  "longitude": -34.877231
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c73"
+  },
+  "ID": 440,
+  "Nome": "Casa-Museu Magdalena e Gilberto Freyre",
+  "Descricao": "no bairro de Apipucos onde o escritor viveu por mais de 40 anos totalmente conservada com objetos móveis e livros exatamente na mesma posição como eram no tempo de Gilberto Freyre. ",
+  "Bairro": "Apipucos",
+  "Endereco": "Rua Jorge Tasso Neto",
+  "latitude": -8.020598,
+  "longitude": -34.938482
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c74"
+  },
+  "ID": 441,
+  "Nome": "Oficina Brennand",
+  "Descricao": "na Várzea reunindo as obras do artista plástico Francisco Brennand conhecido em várias partes do mundo e considerado um dos expoentes das artes plásticas contemporâneas. O espaço abriga mais de 2 mil esculturas além de painéis murais quadros e desenhos do artista. Outros dois pontos para conferir suas obras é no Parque das Esculturas de Francisco Brennand no molhe do Porto do Recife e o Pátio das Esculturas do Shopping Recife que reúne peças de vários artistas consagrados.",
+  "Bairro": "Várzea",
+  "Endereco": "Propriedade Santos Cosme e Damião s/n",
+  "latitude": -8.052569,
+  "longitude": -34.974795
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c75"
+  },
+  "ID": 442,
+  "Nome": "Instituto Ricardo Brennand (IRB)",
+  "Descricao": "também na Várzea é um castelo medieval que guarda uma fabulosa coleção de armas brancas telas do Brasil Colonial obras de arte de diversas épocas e procedências e a maior coleção privada do pintor holandês Frans Post. Destaque para a escultura de Botero e uma réplica de O pensador de Rodin.",
+  "Bairro": "Várzea",
+  "Endereco": " Alameda Antônio Brennand s/n",
+  "latitude": -8.065768,
+  "longitude": -34.964301
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c76"
+  },
+  "ID": 443,
+  "Nome": "Museu do Estado de Pernambuco",
+  "Descricao": "Palacete do século XIX no bairro das Graças que possui um acervo de mais de 14 mil obras sobre arqueologia cultura indígena período de ocupação holandesa em Pernambuco arte sacra cultura afro-brasileira entre outras temáticas da história do estado. Recebe também exposições temporárias.",
+  "Bairro": "Graças",
+  "Endereco": "Av. Rui Barbosa 960",
+  "longitude": -34.901995
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c77"
+  },
+  "ID": 444,
+  "Nome": "Museu da Abolição",
+  "Descricao": "No bairro da Madalena o museu discute temas sobre escravidão e abolição visando preservar a memória do povo negro e influência na formação da cultura brasileira. Possui sala memorial miniauditório e sala para exposições temporárias.",
+  "Bairro": "Madalena",
+  "Endereco": "R. Benfica 1150",
+  "latitude": -8.0571555,
+  "longitude": -34.9090307
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c78"
+  },
+  "ID": 445,
+  "Nome": "Instituto Arqueológico Histórico e Geográfico de Pernambuco",
+  "Descricao": "Centro de referência para pesquisadores de diversas áreas possui em seu acervo documentos e itens raros que representam a história do estado.",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua do Hospício 130",
+  "latitude": -8.0617337,
+  "longitude": -34.8843858
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c79"
+  },
+  "ID": 446,
+  "Nome": "Museu de Arte Popular",
+  "Descricao": "A casa 49 do Pátio de São Pedro abriga o MAP sua coleção retrata os estados do nordeste brasileiro através de obras em madeira gesso e cerâmica (barro).",
+  "Bairro": "São José",
+  "Endereco": "Pátio de São Pedro 49",
+  "latitude": -8.0673105,
+  "longitude": -34.8790074
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c7a"
+  },
+  "ID": 447,
+  "Nome": "Cais do Sertão",
+  "Descricao": "Com experiências sensoriais e arquitetura inovadora o Cais do Sertão apresenta a cultura do homem sertanejo em um ambiente tecnológico e interativo. Objetos do cotidiano discos instrumentos musicais estão presentes em seu acervo. O visitante tem a oportunidade de tocar alguns instrumentos cantar em cabines de karaokê  além de contemplar uma réplica do Rio São Francisco e a arte da xilogravura.",
+  "Bairro": "Recife",
+  "Endereco": "Av. Alfredo Lisboa S/N",
+  "latitude": -8.0631633,
+  "longitude": -34.8711337
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c7b"
+  },
+  "ID": 448,
+  "Nome": "Casa do Carnaval ",
+  "Descricao": "Espaço destinado a pesquisas sobre as manifestações da cultura popular com acervo de livros periódicos teses cartas partituras fotografias notas de jornal entre outros documentos.",
+  "Bairro": "São José",
+  "Endereco": "Pátio de São Pedro Nº 38",
+  "latitude": -8.0667877,
+  "longitude": -34.8790547
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c7c"
+  },
+  "ID": 449,
+  "Nome": "Observatório Cultural Torre Malakoff",
+  "Descricao": "Observatório astronômico do século XIX funciona também como centro cultural abrigando exposições temporárias",
+  "Bairro": "Recife",
+  "Endereco": "Praça do Arsenal S/N",
+  "latitude": -8.0631633,
+  "longitude": -34.8711337
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c7d"
+  },
+  "ID": 450,
+  "Nome": "Sinagoga Kahal Zur Israel",
+  "Descricao": "Primeira singagoga das Américas funciona atualmente o Centro Judaico de Pernambuco. Escavações arqueológicas exposição de itens e documentos proporcionam o contado do visitante com a história do judeus no Recife.",
+  "Bairro": "Recife",
+  "Endereco": "Rua do Bom Jesus 197",
+  "latitude": -8.0618594,
+  "longitude": -34.8713172
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c7e"
+  },
+  "ID": 451,
+  "Nome": "Paço do Frevo",
+  "Descricao": "Espaço cultural no bairro do Recife conta através de seu ambiente toda a história da dança e ritmo Frevo. Dedicado à formação e pesquisa possui escola de dança e música além de um centro de documentação.",
+  "Bairro": "Recife",
+  "Endereco": "Praça do Arsenal da Marinha S/N",
+  "latitude": -8.0613183,
+  "longitude": -34.8716376
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c7f"
+  },
+  "ID": 452,
+  "Nome": "Memorial Chico Science",
+  "Descricao": "Buscando resgatar a obra do artista Chico Science o Memorial localizado no Pátio de São Pedro abriga exposições espaço para pesquisa e alguns eventos como a Semana Chico Science no mês de março que proporciona um momento de reflexão sobre o movimento Manguebeat.",
+  "Bairro": "São José",
+  "Endereco": "Pátio de São Pedro casa 21",
+  "latitude": -8.0671216,
+  "longitude": -34.8788421
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c80"
+  },
+  "ID": 453,
+  "Nome": "Memorial Luiz Gonzaga",
+  "Descricao": "Com o objetivo preservar e difundir a obra de Luiz Gonzaga o Memorial também localizado no Pátio de São Pedro possui três núcleos operacionais: Núcleo Educativo dedicado à mediação e educação patrimonial Núcleo de Pesquisa proporcionando o acesso a documentos Núcleo de Música o qual trabalha na edição de partituras. Abriga exposição permanente.",
+  "Bairro": "São José",
+  "Endereco": "Pátio de São Pedro Casa 35",
+  "latitude": -8.0672249,
+  "longitude": -34.8789283
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c81"
+  },
+  "ID": 454,
+  "Nome": "Museu do Trem",
+  "Descricao": "Contando a história do trem em Pernambuco a Estação Central Capiba possui acervo com peças colhidas nas antigas estações de trens do estado além de um pátio expondo duas locomotivas do tipo Maria-fumaça e outra movida a óleo diesel.",
+  "Bairro": "São José",
+  "Endereco": "R. Floriano Peixoto s/n",
+  "latitude": -8.0680447,
+  "longitude": -34.8834433
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c82"
+  },
+  "ID": 455,
+  "Nome": "Museu de Artes Afro-Brasil Rolando Toro",
+  "Descricao": "Na rua Mariz e Barros do bairro do Recife o espaço cultural abriga obras sob a perspectiva de um museu dinâmico promovendo estéticas entre as diversas linguagens artísticas afro-brasileiras em um só ambiente. Algumas peças do acervo ainda estão sendo catalogadas pelo museu junto à UFPE.",
+  "Bairro": "Recife",
+  "Endereco": "Rua Mariz e Barros 328",
+  "latitude": -8.0628495,
+  "longitude": -34.873079
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c83"
+  },
+  "ID": 456,
+  "Nome": "Teatro do Parque",
+  "Descricao": "Completado 100 anos em 2015 o teatro se encontra fechado para obras desde 2014 com previsão para voltar a funcionar em Novembro de 2016.",
+  "Bairro": "Boa Vista",
+  "Endereco": "Rua do Hospício. 81 ",
+  "latitude": -8.061976,
+  "longitude": -34.884742
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c84"
+  },
+  "ID": 457,
+  "Nome": "Teatro Barreto Júnior",
+  "Descricao": "Primeiro teatro da zona sul da cidade local onde funcionava o CineAtlântico recebe espetáculos internacionais e festivais de dança locais.",
+  "Bairro": "Pina",
+  "Endereco": "Endereço: Rua Estudante Jeremias Bastos. s/n",
+  "latitude": -8.090579,
+  "longitude": -34.884095
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c85"
+  },
+  "ID": 458,
+  "Nome": "Teatro de Santa Isabel",
+  "Descricao": "Primeiro e mais expressivo exemplar de arquitetura neoclássica em Pernambuco idealizado por Francisco do Rego Barros atualmente proporciona visitas guiadas e concertos da Orquestra Sinfônica do Recife além de espetáculos com temáticas variadas.",
+  "Bairro": "Santo Antonio",
+  "Endereco": "Praça da República - s/n",
+  "latitude": -8.060693,
+  "longitude": -34.878138
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c86"
+  },
+  "ID": 459,
+  "Nome": "Teatro Apolo",
+  "Descricao": "Com fachada em mármore de Lisboa o teatro integra o Centro de Formações e Pesquisas das Artes Cênicas ApoloHermilo. Estilo Neoclássio",
+  "Bairro": "Recife",
+  "Endereco": "Rua do Apolo 121",
+  "latitude": -8.061439,
+  "longitude": -34.872534
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c87"
+  },
+  "ID": 460,
+  "Nome": "Teatro Hermilo Borba Filho",
+  "Descricao": "A partir da adaptação de dois armazéns que ficavam nos fundos do Teatro Apolo surge o teatro Hermilo Borba Filho com espaço de configuração flexível permitindo ajustes de suas arquibancadas em função do espetáculo. Possui programação com preços populares.",
+  "Bairro": "Recife",
+  "Endereco": "Cais do Apolo s/n",
+  "latitude": -8.06183,
+  "longitude": -34.872795
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c88"
+  },
+  "ID": 461,
+  "Nome": "Teatro Luiz Mendonça",
+  "Descricao": "Instalado no Parque Dona Lindu bairro de Boa Viagem o teatro é um dos mais recentes da capital pernambucana e possui um sistema reversível possibilitando funcionamento tanto para a área interna quanto para a esplanada em casos de apresentações ao ar livre.",
+  "Bairro": "Boa Viagem",
+  "Endereco": "Av. Boa Viagem s/n",
+  "latitude": -8.141965,
+  "longitude": -34.903683
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c89"
+  },
+  "ID": 462,
+  "Nome": "Teatro Boa Vista",
+  "Descricao": "Criado em 2010 nas dependências do Colégio Salesiano o Teatro Boa Vista dispõe de 800 lugares para o público e recebe festivais de dança e peças infantis nacionais.",
+  "Bairro": "Boa Vista",
+  "Endereco": "R. Dom Bôsco 551",
+  "latitude": -8.0605756,
+  "longitude": -34.8935803
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c8a"
+  },
+  "ID": 463,
+  "Nome": "Teatro Arraial",
+  "Descricao": "Localizado na Rua da Aurora O Teatro Arraial Ariano Suassuna é um equipamento de pequeno porte com apenas 94 poltronas e dois camarins. Em seu acervo o espaço conta com 150 fonogramas para utilização nos espetáculos e possui programação variada destinada a um público de todas as idades.",
+  "Bairro": "Boa Vista",
+  "Endereco": "R. da Aurora 457",
+  "latitude": -8.0599357,
+  "longitude": -34.8803492
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c8b"
+  },
+  "ID": 464,
+  "Nome": "Teatro Valdemar Oliveira",
+  "Descricao": "No bairro da Soledade o Teatro Valdemar Oliveira é um espaço moderno de médio porte muito utilizado para peças infantis.",
+  "Bairro": "Soledade",
+  "Endereco": "Praça Osvaldo Cruz 412",
+  "latitude": -8.055285,
+  "longitude": -34.8914722
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c8c"
+  },
+  "ID": 465,
+  "Nome": "Teatro Alfredo de Oliveira",
+  "Descricao": "Localizado na Praça Osvaldo Cruz o espaço de artes cênicas possui programação variada visando todos os públicos",
+  "Bairro": "Soledade",
+  "Endereco": "Praça Osvaldo Cruz 412A",
+  "latitude": -8.0556155,
+  "longitude": -34.8918026
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c8d"
+  },
+  "ID": 466,
+  "Nome": "Teatro Marco Camarotti",
+  "Descricao": "Pertencente ao Sesc Santo Amaro o Teatro Marco Camarotti é ativo e possui programação variada contemplando públicos de todas as idades.",
+  "Bairro": "Santo Amaro",
+  "Endereco": " R. Treze de Maio 455 ",
+  "latitude": -8.0496014,
+  "longitude": -34.8818494
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c8e"
+  },
+  "ID": 467,
+  "Nome": "Teatro Joaquim Cardozo",
+  "Descricao": "No Casarão do Centro Cultural Benfica bairro da Madalena o teatro possui apenas 50 lugares com o intuito de oferecer um contato maior entre artista e público.",
+  "Bairro": "Madalena",
+  "Endereco": "R. Benfica 157",
+  "latitude": -8.0600654,
+  "longitude": -34.901732
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c8f"
+  },
+  "ID": 468,
+  "Nome": "Teatro Rio Mar",
+  "Descricao": "Pertencente ao Shopping Rio Mar o teatro possui capacidade para 696 espectadores e conta com equipamentos e sistemas de áudio e iluminação de alta qualidade. É acessível para cadeirantes e pessoas com dificuldade de locomoção.",
+  "Bairro": "Pina",
+  "Endereco": "Av. República do Líbano 251",
+  "latitude": -8.0861186,
+  "longitude": -34.89483
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c90"
+  },
+  "ID": 469,
+  "Nome": "Mercado de São José",
+  "Descricao": "Inspirado no mercado público de Grenelle, em Paris, foi inaugurado em 1875. Sua arquitetura em ferro é típica do século XIX. É um dos monumentos pernambucanos, reconhecido e tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) como patrimônio da cultura brasileira. Artesanato em barro, corda e palha fazem do mercado um polo de atração turística. É, também, ponto tradicional do comércio de pescado.",
+  "Bairro": "São Jose",
+  "latitude": -8.06806,
+  "longitude": -34.87775
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c91"
+  },
+  "ID": 470,
+  "Nome": "Mercado da Boa Vista",
+  "Descricao": "Não se sabe ao certo que data foi inaugurado, mas há registros de que já existia em 1889. Possui 63 boxes, que comercializam cereais, verduras, frutas e legumes, carnes, aves e frios, além de ervas e armarinhos. Mas sua fama vem da comida regional servida nos bares no café da manhã, almoço e jantar.",
+  "Bairro": "Boa Vista",
+  "latitude": -8.063192,
+  "longitude": -34.888654
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c92"
+  },
+  "ID": 471,
+  "Nome": "Mercado da Madalena",
+  "Descricao": "Construído em 1925, é ponto de encontro de boêmios. Ali, eles vão tomar a saideira e recuperar as energias gastas nas noitadas com um bom cuscuz com bode guizado, sarapatel e outros pratos fortes da cozinha regional.",
+  "Bairro": "Madalena",
+  "latitude": -8.052439,
+  "longitude": -34.908554
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c93"
+  },
+  "ID": 472,
+  "Nome": "Mercado da Encruzilhada",
+  "Descricao": "É modelo de obra arquitetônica no Brasil da década de 50. Nele é possível encontrar frutas, verduras, cereais, miudezas em geral, artesanato, frios, carnes e aves. Destaque para a carne de sol e para a linguiça de porco caseira, uma das melhores da capital.",
+  "Bairro": "Encruzilhada",
+  "latitude": -8.036873,
+  "longitude": -34.892434
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c94"
+  },
+  "ID": 473,
+  "Nome": "Mercado de Casa Amarela",
+  "Descricao": "Inaugurado em 1930, as estruturas que sustentam a construção foram trazidas de bonde pela empresa Borrione, dois anos antes. Com oferta de produtos diversificada em seus boxes, os bares e restaurantes populares, na parte externa do mercado, são as principais atrações. ",
+  "Bairro": "Casa Amarela",
+  "latitude": -8.026599,
+  "longitude": -34.917882
+},
+{
+  "_id": {
+    "$oid": "65d261b07d2c42b987447c95"
+  },
+  "ID": 474,
+  "Nome": "Mercado do Cordeiro ",
+  "Descricao": "Situado no bairro do Cordeiro, foi inaugurado em 1937, e servia como fonte de renda para as famílias da região. Em 2008, um novo mercado foi construído e entregue à população.  No local, é possível comprar frutas, açougues, confecções, flores, raízes, armarinho e artesanato, além do serviço de bares e lanchonetes. Parte dos trilhos que passavam em frente ao antigo mercado foi preservada perto da entrada principal.",
+  "Bairro": "Cordeiro",
+  "latitude": -8.051698,
+  "longitude": -34.921372
+}]
